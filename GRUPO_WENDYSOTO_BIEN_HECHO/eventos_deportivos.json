@@ -1,0 +1,5735 @@
+{
+ "id": "1227687395841191938",
+ "key": "1227687395841191938",
+ "value": {
+  "rev": "1-b387397ff2c72ad678e02d054487a52d"
+ },
+ "doc": {
+  "_id": "1227687395841191938",
+  "_rev": "1-b387397ff2c72ad678e02d054487a52d",
+  "created_at": "Wed Feb 12 20:14:19 +0000 2020",
+  "id": 1227687395841192000,
+  "id_str": "1227687395841191938",
+  "text": "RT @avinute: #MobileWorldCongress2020\n\nhttps://t.co/wr0OeZ2Jeq\n\nTodo es normal, Holanda es Holanda, un país avanzado con grandes salarios y…",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 1380535286,
+   "id_str": "1380535286",
+   "name": "🔱 ¡Retratados!🔻💛💜",
+   "screen_name": "Santo_Iker",
+   "location": "-Suiza, ¿capital? -¡En-bé!",
+   "url": "http://derechoynormas.blogspot.com.es/2012/11/a-la-carcel-por-retweet-hay-delito-en.html",
+   "description": "Si no tienes empatía (o un TEA, si eso) ni entres. No cites mal a Orwell, Churchill et altri. No apruebo mis RT ni FAV. Apoyo a @MiercolesRepubl ¿Tú aún no? 😲",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 2686,
+   "friends_count": 3125,
+   "listed_count": 50,
+   "favourites_count": 100658,
+   "statuses_count": 130122,
+   "created_at": "Thu Apr 25 22:15:06 +0000 2013",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": true,
+   "profile_link_color": "91D2FA",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/631434213498191873/FJWWOaQy_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/631434213498191873/FJWWOaQy_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1380535286/1550100998",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 20:11:00 +0000 2020",
+   "id": 1227686562097483800,
+   "id_str": "1227686562097483776",
+   "text": "#MobileWorldCongress2020\n\nhttps://t.co/wr0OeZ2Jeq\n\nTodo es normal, Holanda es Holanda, un país avanzado con grandes… https://t.co/kNPQeTD9fq",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 325763827,
+    "id_str": "325763827",
+    "name": "AvinuteProductions🔷",
+    "screen_name": "avinute",
+    "location": "Bilbao, Spain",
+    "url": "https://es.linkedin.com/in/gomezsergio",
+    "description": "CEO of Avinute Productions",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 74343,
+    "friends_count": 49661,
+    "listed_count": 202,
+    "favourites_count": 14558,
+    "statuses_count": 32932,
+    "created_at": "Tue Jun 28 20:43:17 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/948715191239397377/NVuHGQ5Z_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/948715191239397377/NVuHGQ5Z_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/325763827/1500343663",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "#MobileWorldCongress2020\n\nhttps://t.co/wr0OeZ2Jeq\n\nTodo es normal, Holanda es Holanda, un país avanzado con grandes salarios y libertad, España es un país derrotado, con la industria robada, expoliada, con una dictadura no superada, salarios de mierda y eventos mas de mierda...",
+    "display_text_range": [
+     0,
+     278
+    ],
+    "entities": {
+     "hashtags": [
+      {
+       "text": "MobileWorldCongress2020",
+       "indices": [
+        0,
+        24
+       ]
+      }
+     ],
+     "urls": [
+      {
+       "url": "https://t.co/wr0OeZ2Jeq",
+       "expanded_url": "https://www.elconfidencial.com/tecnologia/2020-02-12/ise2020-coronavirus-mobile-suspension-empresas_2450719/",
+       "display_url": "elconfidencial.com/tecnologia/202…",
+       "indices": [
+        26,
+        49
+       ]
+      }
+     ],
+     "user_mentions": [],
+     "symbols": []
+    }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 1,
+   "favorite_count": 0,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "MobileWorldCongress2020",
+      "indices": [
+       0,
+       24
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/wr0OeZ2Jeq",
+      "expanded_url": "https://www.elconfidencial.com/tecnologia/2020-02-12/ise2020-coronavirus-mobile-suspension-empresas_2450719/",
+      "display_url": "elconfidencial.com/tecnologia/202…",
+      "indices": [
+       26,
+       49
+      ]
+     },
+     {
+      "url": "https://t.co/kNPQeTD9fq",
+      "expanded_url": "https://twitter.com/i/web/status/1227686562097483776",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "MobileWorldCongress2020",
+     "indices": [
+      13,
+      37
+     ]
+    }
+   ],
+   "urls": [
+    {
+     "url": "https://t.co/wr0OeZ2Jeq",
+     "expanded_url": "https://www.elconfidencial.com/tecnologia/2020-02-12/ise2020-coronavirus-mobile-suspension-empresas_2450719/",
+     "display_url": "elconfidencial.com/tecnologia/202…",
+     "indices": [
+      39,
+      62
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "avinute",
+     "name": "AvinuteProductions🔷",
+     "id": 325763827,
+     "id_str": "325763827",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538459154"
+ }
+}
+id"1227687397279895553"
+{
+ "id": "1227687397279895553",
+ "key": "1227687397279895553",
+ "value": {
+  "rev": "1-4459bc7a43128c6910c4f0d17d4c90e5"
+ },
+ "doc": {
+  "_id": "1227687397279895553",
+  "_rev": "1-4459bc7a43128c6910c4f0d17d4c90e5",
+  "created_at": "Wed Feb 12 20:14:19 +0000 2020",
+  "id": 1227687397279895600,
+  "id_str": "1227687397279895553",
+  "text": "RT @sergioulloa1: Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa Rica p…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 257667322,
+   "id_str": "257667322",
+   "name": "Juan Carlos Reinoso",
+   "screen_name": "jc_reinoso",
+   "location": "Antofagasta",
+   "url": null,
+   "description": "Ingeniero Civil Ambiental.. Libertad",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 50,
+   "friends_count": 286,
+   "listed_count": 0,
+   "favourites_count": 638,
+   "statuses_count": 432,
+   "created_at": "Fri Feb 25 22:48:14 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1059131088155631617/pVk8-jbj_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059131088155631617/pVk8-jbj_normal.jpg",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 17:01:40 +0000 2020",
+   "id": 1227638915110187000,
+   "id_str": "1227638915110187009",
+   "text": "Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa… https://t.co/7Hzacliii3",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 331257093,
+    "id_str": "331257093",
+    "name": "Una nueva consciencia",
+    "screen_name": "sergioulloa1",
+    "location": "santiago de chile",
+    "url": null,
+    "description": "Strategic weapons engineer. Us navy Seal. Verdad, Honor y Dignidad. Buenas ideas, por sobre ideologías. Mi amor y felicidad no dependen de nada y nadie. Namasté",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 34243,
+    "friends_count": 17145,
+    "listed_count": 115,
+    "favourites_count": 409616,
+    "statuses_count": 279741,
+    "created_at": "Thu Jul 07 22:02:50 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/587440786423345152/NVVqQU1c_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/587440786423345152/NVVqQU1c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/331257093/1546532507",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa Rica problemas de insolvencia, en Ecuador el sistema de reparto dejará de pagar pensiones el 2037, en Panamá las reservas para pensiones se agotarán el año 2023. https://t.co/DpRb66Zlg2",
+    "display_text_range": [
+     0,
+     276
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227638908541862000,
+       "id_str": "1227638908541861888",
+       "indices": [
+        277,
+        300
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "url": "https://t.co/DpRb66Zlg2",
+       "display_url": "pic.twitter.com/DpRb66Zlg2",
+       "expanded_url": "https://twitter.com/sergioulloa1/status/1227638915110187009/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 486,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227638908541862000,
+       "id_str": "1227638908541861888",
+       "indices": [
+        277,
+        300
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "url": "https://t.co/DpRb66Zlg2",
+       "display_url": "pic.twitter.com/DpRb66Zlg2",
+       "expanded_url": "https://twitter.com/sergioulloa1/status/1227638915110187009/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 486,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 35,
+   "reply_count": 22,
+   "retweet_count": 246,
+   "favorite_count": 157,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/7Hzacliii3",
+      "expanded_url": "https://twitter.com/i/web/status/1227638915110187009",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       116,
+       139
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "sergioulloa1",
+     "name": "Una nueva consciencia",
+     "id": 331257093,
+     "id_str": "331257093",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538459497"
+ }
+}
+id"1227687397724434432"
+{
+ "id": "1227687397724434432",
+ "key": "1227687397724434432",
+ "value": {
+  "rev": "1-5be06a585d78335f17daec7ee70ae929"
+ },
+ "doc": {
+  "_id": "1227687397724434432",
+  "_rev": "1-5be06a585d78335f17daec7ee70ae929",
+  "created_at": "Wed Feb 12 20:14:19 +0000 2020",
+  "id": 1227687397724434400,
+  "id_str": "1227687397724434432",
+  "text": "RT @diegoordonezg: Uno propone idioteces y 97 le apoyan. Idiotas todos !",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 211690351,
+   "id_str": "211690351",
+   "name": "Andrea Icaza Garzozi",
+   "screen_name": "AndreaIGarzozi",
+   "location": "Guayaquil-Ecuador",
+   "url": null,
+   "description": "Lcda.en Comunicación Social.Master en Administración de Empresas.Escritora.Microempresaria",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 149,
+   "friends_count": 238,
+   "listed_count": 5,
+   "favourites_count": 3366,
+   "statuses_count": 4044,
+   "created_at": "Wed Nov 03 23:50:49 +0000 2010",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1160005420/Andrea01_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1160005420/Andrea01_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/211690351/1440617825",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 13:32:51 +0000 2020",
+   "id": 1227586364121714700,
+   "id_str": "1227586364121714689",
+   "text": "Uno propone idioteces y 97 le apoyan. Idiotas todos !",
+   "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 188815376,
+    "id_str": "188815376",
+    "name": "Diego Ordóñez",
+    "screen_name": "diegoordonezg",
+    "location": "Quito",
+    "url": null,
+    "description": "Político, opinador y columnista. Escribí en HOY hasta que lo cerraron. Fui columnista invitado en El Comercio. Columnista fundador en http://www.4pelagatos.com",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 23094,
+    "friends_count": 120,
+    "listed_count": 75,
+    "favourites_count": 388,
+    "statuses_count": 18604,
+    "created_at": "Thu Sep 09 17:15:20 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/972989959903825922/dnbCI7GT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/972989959903825922/dnbCI7GT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/188815376/1437657980",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1227293543628202000,
+   "quoted_status_id_str": "1227293543628201992",
+   "quoted_status": {
+    "created_at": "Tue Feb 11 18:09:17 +0000 2020",
+    "id": 1227293543628202000,
+    "id_str": "1227293543628201992",
+    "text": "La @AsambleaEcuador resolvió declarar el 29 de mayo como Día Nacional de Conservación y Reconocimiento del Chimbora… https://t.co/3xKzwg0IZ3",
+    "display_text_range": [
+     0,
+     140
+    ],
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+     "id": 167391967,
+     "id_str": "167391967",
+     "name": "La Hora Ecuador",
+     "screen_name": "lahoraecuador",
+     "location": "Ecuador",
+     "url": "http://www.lahora.com.ec",
+     "description": "Lo que necesitas saber sobre Ecuador, sus provincias y el mundo. La información más cercana y útil desde hace 36 años.",
+     "translator_type": "none",
+     "protected": false,
+     "verified": false,
+     "followers_count": 510745,
+     "friends_count": 1686,
+     "listed_count": 1698,
+     "favourites_count": 2370,
+     "statuses_count": 327956,
+     "created_at": "Fri Jul 16 13:33:27 +0000 2010",
+     "utc_offset": null,
+     "time_zone": null,
+     "geo_enabled": true,
+     "lang": null,
+     "contributors_enabled": false,
+     "is_translator": false,
+     "profile_background_color": "234DB0",
+     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+     "profile_background_tile": false,
+     "profile_link_color": "FF3300",
+     "profile_sidebar_border_color": "000000",
+     "profile_sidebar_fill_color": "1E8AB8",
+     "profile_text_color": "000000",
+     "profile_use_background_image": true,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/1088539582084366341/8iG4AoYE_normal.jpg",
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088539582084366341/8iG4AoYE_normal.jpg",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/167391967/1554741765",
+     "default_profile": false,
+     "default_profile_image": false,
+     "following": null,
+     "follow_request_sent": null,
+     "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+     "full_text": "La @AsambleaEcuador resolvió declarar el 29 de mayo como Día Nacional de Conservación y Reconocimiento del Chimborazo como el punto más cercano al sol y la montaña más alta de #Ecuador. La propuesta del asambleísta Israel Cruz fue aprobada con 98 votos.\n\nVía @andreagrijalva https://t.co/ayl8PWRVIB",
+     "display_text_range": [
+      0,
+      274
+     ],
+     "entities": {
+      "hashtags": [
+       {
+        "text": "Ecuador",
+        "indices": [
+         176,
+         184
+        ]
+       }
+      ],
+      "urls": [],
+      "user_mentions": [
+       {
+        "screen_name": "AsambleaEcuador",
+        "name": "Asamblea Nacional",
+        "id": 56502954,
+        "id_str": "56502954",
+        "indices": [
+         3,
+         19
+        ]
+       },
+       {
+        "screen_name": "andreagrijalva",
+        "name": "Andrea Grijalva O.",
+        "id": 11811242,
+        "id_str": "11811242",
+        "indices": [
+         259,
+         274
+        ]
+       }
+      ],
+      "symbols": [],
+      "media": [
+       {
+        "id": 1227293380381679600,
+        "id_str": "1227293380381679616",
+        "indices": [
+         275,
+         298
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQg407TWoAAZaQd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQg407TWoAAZaQd.jpg",
+        "url": "https://t.co/ayl8PWRVIB",
+        "display_url": "pic.twitter.com/ayl8PWRVIB",
+        "expanded_url": "https://twitter.com/lahoraecuador/status/1227293543628201992/photo/1",
+        "type": "photo",
+        "sizes": {
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "small": {
+          "w": 680,
+          "h": 383,
+          "resize": "fit"
+         },
+         "medium": {
+          "w": 1200,
+          "h": 675,
+          "resize": "fit"
+         },
+         "large": {
+          "w": 2048,
+          "h": 1152,
+          "resize": "fit"
+         }
+        }
+       },
+       {
+        "id": 1227293383208710100,
+        "id_str": "1227293383208710144",
+        "indices": [
+         275,
+         298
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQg41F1XsAA2EL4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQg41F1XsAA2EL4.jpg",
+        "url": "https://t.co/ayl8PWRVIB",
+        "display_url": "pic.twitter.com/ayl8PWRVIB",
+        "expanded_url": "https://twitter.com/lahoraecuador/status/1227293543628201992/photo/1",
+        "type": "photo",
+        "sizes": {
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "medium": {
+          "w": 1200,
+          "h": 675,
+          "resize": "fit"
+         },
+         "large": {
+          "w": 2048,
+          "h": 1152,
+          "resize": "fit"
+         },
+         "small": {
+          "w": 680,
+          "h": 383,
+          "resize": "fit"
+         }
+        }
+       }
+      ]
+     },
+     "extended_entities": {
+      "media": [
+       {
+        "id": 1227293380381679600,
+        "id_str": "1227293380381679616",
+        "indices": [
+         275,
+         298
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQg407TWoAAZaQd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQg407TWoAAZaQd.jpg",
+        "url": "https://t.co/ayl8PWRVIB",
+        "display_url": "pic.twitter.com/ayl8PWRVIB",
+        "expanded_url": "https://twitter.com/lahoraecuador/status/1227293543628201992/photo/1",
+        "type": "photo",
+        "sizes": {
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "small": {
+          "w": 680,
+          "h": 383,
+          "resize": "fit"
+         },
+         "medium": {
+          "w": 1200,
+          "h": 675,
+          "resize": "fit"
+         },
+         "large": {
+          "w": 2048,
+          "h": 1152,
+          "resize": "fit"
+         }
+        }
+       },
+       {
+        "id": 1227293383208710100,
+        "id_str": "1227293383208710144",
+        "indices": [
+         275,
+         298
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQg41F1XsAA2EL4.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQg41F1XsAA2EL4.jpg",
+        "url": "https://t.co/ayl8PWRVIB",
+        "display_url": "pic.twitter.com/ayl8PWRVIB",
+        "expanded_url": "https://twitter.com/lahoraecuador/status/1227293543628201992/photo/1",
+        "type": "photo",
+        "sizes": {
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "medium": {
+          "w": 1200,
+          "h": 675,
+          "resize": "fit"
+         },
+         "large": {
+          "w": 2048,
+          "h": 1152,
+          "resize": "fit"
+         },
+         "small": {
+          "w": 680,
+          "h": 383,
+          "resize": "fit"
+         }
+        }
+       }
+      ]
+     }
+    },
+    "quote_count": 316,
+    "reply_count": 379,
+    "retweet_count": 72,
+    "favorite_count": 113,
+    "entities": {
+     "hashtags": [],
+     "urls": [
+      {
+       "url": "https://t.co/3xKzwg0IZ3",
+       "expanded_url": "https://twitter.com/i/web/status/1227293543628201992",
+       "display_url": "twitter.com/i/web/status/1…",
+       "indices": [
+        117,
+        140
+       ]
+      }
+     ],
+     "user_mentions": [
+      {
+       "screen_name": "AsambleaEcuador",
+       "name": "Asamblea Nacional",
+       "id": 56502954,
+       "id_str": "56502954",
+       "indices": [
+        3,
+        19
+       ]
+      }
+     ],
+     "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es"
+   },
+   "quoted_status_permalink": {
+    "url": "https://t.co/twAT4zTmWL",
+    "expanded": "https://twitter.com/lahoraecuador/status/1227293543628201992",
+    "display": "twitter.com/lahoraecuador/…"
+   },
+   "is_quote_status": true,
+   "quote_count": 21,
+   "reply_count": 53,
+   "retweet_count": 130,
+   "favorite_count": 373,
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "quoted_status_id": 1227293543628202000,
+  "quoted_status_id_str": "1227293543628201992",
+  "quoted_status": {
+   "created_at": "Tue Feb 11 18:09:17 +0000 2020",
+   "id": 1227293543628202000,
+   "id_str": "1227293543628201992",
+   "text": "La @AsambleaEcuador resolvió declarar el 29 de mayo como Día Nacional de Conservación y Reconocimiento del Chimbora… https://t.co/3xKzwg0IZ3",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 167391967,
+    "id_str": "167391967",
+    "name": "La Hora Ecuador",
+    "screen_name": "lahoraecuador",
+    "location": "Ecuador",
+    "url": "http://www.lahora.com.ec",
+    "description": "Lo que necesitas saber sobre Ecuador, sus provincias y el mundo. La información más cercana y útil desde hace 36 años.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 510745,
+    "friends_count": 1686,
+    "listed_count": 1698,
+    "favourites_count": 2370,
+    "statuses_count": 327956,
+    "created_at": "Fri Jul 16 13:33:27 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "234DB0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "1E8AB8",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1088539582084366341/8iG4AoYE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1088539582084366341/8iG4AoYE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/167391967/1554741765",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+(truncated)
+id"1227687399116984323"
+{
+ "id": "1227687399116984323",
+ "key": "1227687399116984323",
+ "value": {
+  "rev": "1-b2d47be12c578afdd094f65e3f6220db"
+ },
+ "doc": {
+  "_id": "1227687399116984323",
+  "_rev": "1-b2d47be12c578afdd094f65e3f6220db",
+  "created_at": "Wed Feb 12 20:14:19 +0000 2020",
+  "id": 1227687399116984300,
+  "id_str": "1227687399116984323",
+  "text": "RT @tjcope: ⚽️ - Sigue el minuto a minuto del @AthleticClub - @GranadaCdeF, primer partido de semifinales de la #CopaDelRey, con la narraci…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 948397798831153200,
+   "id_str": "948397798831153152",
+   "name": "JORGE PÉREZ.CANARIO.",
+   "screen_name": "canario_perez",
+   "location": "Las Palmas de Gran Canaria, Es",
+   "url": null,
+   "description": "Muchacho canario, aficionado,seguidor y simpátizante de todo lo referente a Real Betis Balompié y Real Oviedo C.F. y otros deportes.",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 236,
+   "friends_count": 849,
+   "listed_count": 0,
+   "favourites_count": 9179,
+   "statuses_count": 6995,
+   "created_at": "Wed Jan 03 03:37:10 +0000 2018",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1074479216916344832/TRt1EXfs_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074479216916344832/TRt1EXfs_normal.jpg",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 19:58:19 +0000 2020",
+   "id": 1227683372446756900,
+   "id_str": "1227683372446756865",
+   "text": "⚽️ - Sigue el minuto a minuto del @AthleticClub - @GranadaCdeF, primer partido de semifinales de la #CopaDelRey, co… https://t.co/waNWyG2GRg",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 182330628,
+    "id_str": "182330628",
+    "name": "Tiempo de Juego",
+    "screen_name": "tjcope",
+    "location": "Cadena eh,eh,eh..COPE!!!",
+    "url": "http://www.cope.es/programas/tiempo-de-juego",
+    "description": "📻En este programa pasan cosas...  📆Sábados de 13.00 a 01.00.  📆Domingos de 12.00 a 01.30h!   ☎️Whatsapp📲, con ritmo...  677 580 461",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 478815,
+    "friends_count": 1824,
+    "listed_count": 3699,
+    "favourites_count": 8333,
+    "statuses_count": 219762,
+    "created_at": "Tue Aug 24 10:39:27 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C9E9F8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "008DD1",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1185868360074104832/bN6AqpJY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185868360074104832/bN6AqpJY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/182330628/1488919251",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "⚽️ - Sigue el minuto a minuto del @AthleticClub - @GranadaCdeF, primer partido de semifinales de la #CopaDelRey, con la narración de @rubenmartinweb   \n\nhttps://t.co/JbXtSIoKY8 https://t.co/4yTWENORil",
+    "display_text_range": [
+     0,
+     176
+    ],
+    "entities": {
+     "hashtags": [
+      {
+       "text": "CopaDelRey",
+       "indices": [
+        100,
+        111
+       ]
+      }
+     ],
+     "urls": [
+      {
+       "url": "https://t.co/JbXtSIoKY8",
+       "expanded_url": "https://www.cope.es/deportes/futbol/copa-del-rey/noticias/directo-athletic-bilbao-granada-ida-semifinales-copa-del-rey-12-02-20-20200212_619418",
+       "display_url": "cope.es/deportes/futbo…",
+       "indices": [
+        153,
+        176
+       ]
+      }
+     ],
+     "user_mentions": [
+      {
+       "screen_name": "AthleticClub",
+       "name": "Athletic Club",
+       "id": 273933522,
+       "id_str": "273933522",
+       "indices": [
+        34,
+        47
+       ]
+      },
+      {
+       "screen_name": "GranadaCdeF",
+       "name": "Granada C.F. ❤️⚪️",
+       "id": 188263011,
+       "id_str": "188263011",
+       "indices": [
+        50,
+        62
+       ]
+      },
+      {
+       "screen_name": "rubenmartinweb",
+       "name": "🎙 Ruben Martin",
+       "id": 182031038,
+       "id_str": "182031038",
+       "indices": [
+        133,
+        148
+       ]
+      }
+     ],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227683366666936300,
+       "id_str": "1227683366666936326",
+       "indices": [
+        177,
+        200
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQmbhHbWoAYe5sw.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQmbhHbWoAYe5sw.jpg",
+       "url": "https://t.co/4yTWENORil",
+       "display_url": "pic.twitter.com/4yTWENORil",
+       "expanded_url": "https://twitter.com/tjcope/status/1227683372446756865/photo/1",
+       "type": "photo",
+       "sizes": {
+        "small": {
+         "w": 680,
+         "h": 510,
+         "resize": "fit"
+        },
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "medium": {
+         "w": 976,
+         "h": 732,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 976,
+         "h": 732,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227683366666936300,
+       "id_str": "1227683366666936326",
+       "indices": [
+        177,
+        200
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQmbhHbWoAYe5sw.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQmbhHbWoAYe5sw.jpg",
+       "url": "https://t.co/4yTWENORil",
+       "display_url": "pic.twitter.com/4yTWENORil",
+       "expanded_url": "https://twitter.com/tjcope/status/1227683372446756865/photo/1",
+       "type": "photo",
+       "sizes": {
+        "small": {
+         "w": 680,
+         "h": 510,
+         "resize": "fit"
+        },
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "medium": {
+         "w": 976,
+         "h": 732,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 976,
+         "h": 732,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 0,
+   "reply_count": 2,
+   "retweet_count": 2,
+   "favorite_count": 4,
+   "entities": {
+    "hashtags": [
+     {
+      "text": "CopaDelRey",
+      "indices": [
+       100,
+       111
+      ]
+     }
+    ],
+    "urls": [
+     {
+      "url": "https://t.co/waNWyG2GRg",
+      "expanded_url": "https://twitter.com/i/web/status/1227683372446756865",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [
+     {
+      "screen_name": "AthleticClub",
+      "name": "Athletic Club",
+      "id": 273933522,
+      "id_str": "273933522",
+      "indices": [
+       34,
+       47
+      ]
+     },
+     {
+      "screen_name": "GranadaCdeF",
+      "name": "Granada C.F. ❤️⚪️",
+      "id": 188263011,
+      "id_str": "188263011",
+      "indices": [
+       50,
+       62
+      ]
+     }
+    ],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [
+    {
+     "text": "CopaDelRey",
+     "indices": [
+      112,
+      123
+     ]
+    }
+   ],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "tjcope",
+     "name": "Tiempo de Juego",
+     "id": 182330628,
+     "id_str": "182330628",
+     "indices": [
+      3,
+      10
+     ]
+    },
+    {
+     "screen_name": "AthleticClub",
+     "name": "Athletic Club",
+     "id": 273933522,
+     "id_str": "273933522",
+     "indices": [
+      46,
+      59
+     ]
+    },
+    {
+     "screen_name": "GranadaCdeF",
+     "name": "Granada C.F. ❤️⚪️",
+     "id": 188263011,
+     "id_str": "188263011",
+     "indices": [
+      62,
+      74
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538459935"
+ }
+}
+id"1227687403030286337"
+{
+ "id": "1227687403030286337",
+ "key": "1227687403030286337",
+ "value": {
+  "rev": "1-c9dddabdf8b76e4d069bfc92f48be823"
+ },
+ "doc": {
+  "_id": "1227687403030286337",
+  "_rev": "1-c9dddabdf8b76e4d069bfc92f48be823",
+  "created_at": "Wed Feb 12 20:14:20 +0000 2020",
+  "id": 1227687403030286300,
+  "id_str": "1227687403030286337",
+  "text": "@ViveSegunda Han bailado por momentos al rival, el fútbol ha sido hoy injusto con los chavales",
+  "display_text_range": [
+   13,
+   94
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1227671177218478000,
+  "in_reply_to_status_id_str": "1227671177218478080",
+  "in_reply_to_user_id": 787697214755860500,
+  "in_reply_to_user_id_str": "787697214755860480",
+  "in_reply_to_screen_name": "ViveSegunda",
+  "user": {
+   "id": 516327108,
+   "id_str": "516327108",
+   "name": "carlos lite acero",
+   "screen_name": "carlosliteacero",
+   "location": "La Laguna, Tenerife",
+   "url": null,
+   "description": "comunicando y proyectando.....rockero convicto y confeso....entre Zaragoza y Tenerife",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 1042,
+   "friends_count": 1719,
+   "listed_count": 31,
+   "favourites_count": 13519,
+   "statuses_count": 4880,
+   "created_at": "Tue Mar 06 08:21:01 +0000 2012",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "89C9FA",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/948865651665506304/TVePKiic_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/948865651665506304/TVePKiic_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/516327108/1486160721",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "ViveSegunda",
+     "name": "Vive LaLiga SmartBank",
+     "id": 787697214755860500,
+     "id_str": "787697214755860480",
+     "indices": [
+      0,
+      12
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538460868"
+ }
+}
+id"1227687403177074689"
+{
+ "id": "1227687403177074689",
+ "key": "1227687403177074689",
+ "value": {
+  "rev": "1-c1b09d251566c0b0d38ec0c2f5297b58"
+ },
+ "doc": {
+  "_id": "1227687403177074689",
+  "_rev": "1-c1b09d251566c0b0d38ec0c2f5297b58",
+  "created_at": "Wed Feb 12 20:14:20 +0000 2020",
+  "id": 1227687403177074700,
+  "id_str": "1227687403177074689",
+  "text": "RT @melnicksergio: pero la izquierda shilena dice que ellos tienen la magia única....",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 370460006,
+   "id_str": "370460006",
+   "name": "Bernardo López Dubó",
+   "screen_name": "blopezd",
+   "location": null,
+   "url": null,
+   "description": "Y nos vinimos al sur!! A seguir practicando, enseñando y aprendiendo medicina! Por una Salud Pública resolutiva y eficiente. Por una ALIMENTACION MAS SANA",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 240,
+   "friends_count": 175,
+   "listed_count": 6,
+   "favourites_count": 340,
+   "statuses_count": 18557,
+   "created_at": "Fri Sep 09 02:07:10 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/378800000739842768/4eed2fe189c96591328be3d09758db70_normal.jpeg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000739842768/4eed2fe189c96591328be3d09758db70_normal.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/370460006/1540471864",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 17:37:25 +0000 2020",
+   "id": 1227647913179930600,
+   "id_str": "1227647913179930626",
+   "text": "pero la izquierda shilena dice que ellos tienen la magia única....",
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 622098575,
+    "id_str": "622098575",
+    "name": "Sergio I. Melnick",
+    "screen_name": "melnicksergio",
+    "location": null,
+    "url": null,
+    "description": "Aprendiz de Magus. Papudano de corazón, gozador de la buena mesa, amigo de los amigos, buscador de la sabiduria. Ph.D UCLA, estudiante de Jung",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 187301,
+    "friends_count": 12856,
+    "listed_count": 428,
+    "favourites_count": 1992,
+    "statuses_count": 147129,
+    "created_at": "Fri Jun 29 17:48:43 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/905461232324542468/pmWvNFJl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/905461232324542468/pmWvNFJl_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "quoted_status_id": 1227638915110187000,
+   "quoted_status_id_str": "1227638915110187009",
+   "quoted_status": {
+    "created_at": "Wed Feb 12 17:01:40 +0000 2020",
+    "id": 1227638915110187000,
+    "id_str": "1227638915110187009",
+    "text": "Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa… https://t.co/7Hzacliii3",
+    "display_text_range": [
+     0,
+     140
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+     "id": 331257093,
+     "id_str": "331257093",
+     "name": "Una nueva consciencia",
+     "screen_name": "sergioulloa1",
+     "location": "santiago de chile",
+     "url": null,
+     "description": "Strategic weapons engineer. Us navy Seal. Verdad, Honor y Dignidad. Buenas ideas, por sobre ideologías. Mi amor y felicidad no dependen de nada y nadie. Namasté",
+     "translator_type": "regular",
+     "protected": false,
+     "verified": false,
+     "followers_count": 34243,
+     "friends_count": 17145,
+     "listed_count": 115,
+     "favourites_count": 409616,
+     "statuses_count": 279741,
+     "created_at": "Thu Jul 07 22:02:50 +0000 2011",
+     "utc_offset": null,
+     "time_zone": null,
+     "geo_enabled": true,
+     "lang": null,
+     "contributors_enabled": false,
+     "is_translator": false,
+     "profile_background_color": "C0DEED",
+     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+     "profile_background_tile": true,
+     "profile_link_color": "3B94D9",
+     "profile_sidebar_border_color": "FFFFFF",
+     "profile_sidebar_fill_color": "DDEEF6",
+     "profile_text_color": "333333",
+     "profile_use_background_image": true,
+     "profile_image_url": "http://pbs.twimg.com/profile_images/587440786423345152/NVVqQU1c_normal.jpg",
+     "profile_image_url_https": "https://pbs.twimg.com/profile_images/587440786423345152/NVVqQU1c_normal.jpg",
+     "profile_banner_url": "https://pbs.twimg.com/profile_banners/331257093/1546532507",
+     "default_profile": false,
+     "default_profile_image": false,
+     "following": null,
+     "follow_request_sent": null,
+     "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+     "full_text": "Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa Rica problemas de insolvencia, en Ecuador el sistema de reparto dejará de pagar pensiones el 2037, en Panamá las reservas para pensiones se agotarán el año 2023. https://t.co/DpRb66Zlg2",
+     "display_text_range": [
+      0,
+      276
+     ],
+     "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+       {
+        "id": 1227638908541862000,
+        "id_str": "1227638908541861888",
+        "indices": [
+         277,
+         300
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+        "url": "https://t.co/DpRb66Zlg2",
+        "display_url": "pic.twitter.com/DpRb66Zlg2",
+        "expanded_url": "https://twitter.com/sergioulloa1/status/1227638915110187009/photo/1",
+        "type": "photo",
+        "sizes": {
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "large": {
+          "w": 803,
+          "h": 574,
+          "resize": "fit"
+         },
+         "small": {
+          "w": 680,
+          "h": 486,
+          "resize": "fit"
+         },
+         "medium": {
+          "w": 803,
+          "h": 574,
+          "resize": "fit"
+         }
+        }
+       }
+      ]
+     },
+     "extended_entities": {
+      "media": [
+       {
+        "id": 1227638908541862000,
+        "id_str": "1227638908541861888",
+        "indices": [
+         277,
+         300
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+        "url": "https://t.co/DpRb66Zlg2",
+        "display_url": "pic.twitter.com/DpRb66Zlg2",
+        "expanded_url": "https://twitter.com/sergioulloa1/status/1227638915110187009/photo/1",
+        "type": "photo",
+        "sizes": {
+         "thumb": {
+          "w": 150,
+          "h": 150,
+          "resize": "crop"
+         },
+         "large": {
+          "w": 803,
+          "h": 574,
+          "resize": "fit"
+         },
+         "small": {
+          "w": 680,
+          "h": 486,
+          "resize": "fit"
+         },
+         "medium": {
+          "w": 803,
+          "h": 574,
+          "resize": "fit"
+         }
+        }
+       }
+      ]
+     }
+    },
+    "quote_count": 35,
+    "reply_count": 22,
+    "retweet_count": 246,
+    "favorite_count": 157,
+    "entities": {
+     "hashtags": [],
+     "urls": [
+      {
+       "url": "https://t.co/7Hzacliii3",
+       "expanded_url": "https://twitter.com/i/web/status/1227638915110187009",
+       "display_url": "twitter.com/i/web/status/1…",
+       "indices": [
+        116,
+        139
+       ]
+      }
+     ],
+     "user_mentions": [],
+     "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es"
+   },
+   "quoted_status_permalink": {
+    "url": "https://t.co/umMXxdvTvx",
+    "expanded": "https://twitter.com/sergioulloa1/status/1227638915110187009",
+    "display": "twitter.com/sergioulloa1/s…"
+   },
+   "is_quote_status": true,
+   "quote_count": 12,
+   "reply_count": 28,
+   "retweet_count": 263,
+   "favorite_count": 253,
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "quoted_status_id": 1227638915110187000,
+  "quoted_status_id_str": "1227638915110187009",
+  "quoted_status": {
+   "created_at": "Wed Feb 12 17:01:40 +0000 2020",
+   "id": 1227638915110187000,
+   "id_str": "1227638915110187009",
+   "text": "Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa… https://t.co/7Hzacliii3",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 331257093,
+    "id_str": "331257093",
+    "name": "Una nueva consciencia",
+    "screen_name": "sergioulloa1",
+    "location": "santiago de chile",
+    "url": null,
+    "description": "Strategic weapons engineer. Us navy Seal. Verdad, Honor y Dignidad. Buenas ideas, por sobre ideologías. Mi amor y felicidad no dependen de nada y nadie. Namasté",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 34243,
+    "friends_count": 17145,
+    "listed_count": 115,
+    "favourites_count": 409616,
+    "statuses_count": 279741,
+    "created_at": "Thu Jul 07 22:02:50 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/587440786423345152/NVVqQU1c_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/587440786423345152/NVVqQU1c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/331257093/1546532507",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "Colapsan los sistemas de reparto en la Región. En Argentina el fondo de pensiones perdió un 70% de valor, en Costa Rica problemas de insolvencia, en Ecuador el sistema de reparto dejará de pagar pensiones el 2037, en Panamá las reservas para pensiones se agotarán el año 2023. https://t.co/DpRb66Zlg2",
+    "display_text_range": [
+     0,
+     276
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227638908541862000,
+       "id_str": "1227638908541861888",
+       "indices": [
+        277,
+        300
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "url": "https://t.co/DpRb66Zlg2",
+       "display_url": "pic.twitter.com/DpRb66Zlg2",
+       "expanded_url": "https://twitter.com/sergioulloa1/status/1227638915110187009/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 486,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227638908541862000,
+       "id_str": "1227638908541861888",
+       "indices": [
+        277,
+        300
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQlzFUAWAAARiJS.jpg",
+       "url": "https://t.co/DpRb66Zlg2",
+       "display_url": "pic.twitter.com/DpRb66Zlg2",
+       "expanded_url": "https://twitter.com/sergioulloa1/status/1227638915110187009/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 486,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 803,
+         "h": 574,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 35,
+   "reply_count": 22,
+   "retweet_count": 246,
+   "favorite_count": 157,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/7Hzacliii3",
+      "expanded_url": "https://twitter.com/i/web/status/1227638915110187009",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       116,
+       139
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+(truncated)
+id"1227687406385717249"
+{
+ "id": "1227687406385717249",
+ "key": "1227687406385717249",
+ "value": {
+  "rev": "1-13a107ad353950591466a62e1cbc341f"
+ },
+ "doc": {
+  "_id": "1227687406385717249",
+  "_rev": "1-13a107ad353950591466a62e1cbc341f",
+  "created_at": "Wed Feb 12 20:14:21 +0000 2020",
+  "id": 1227687406385717200,
+  "id_str": "1227687406385717249",
+  "text": "RT @MyrianeLibre: @alenwriter @geopolytica @ecucol @ElRebeldeEc @alfolart @Kattybcn @omarbula @monnissima @soypedropedrosa @POTUS @DEAHQ #E…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 982733653859098600,
+   "id_str": "982733653859098624",
+   "name": "Olga Osorio",
+   "screen_name": "Olgaoso34984425",
+   "location": "Medellín, Colombia",
+   "url": null,
+   "description": null,
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 2405,
+   "friends_count": 3948,
+   "listed_count": 4,
+   "favourites_count": 119287,
+   "statuses_count": 116515,
+   "created_at": "Sat Apr 07 21:35:36 +0000 2018",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1223788100037550081/ECQuEikb_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223788100037550081/ECQuEikb_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/982733653859098624/1553467030",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Sun Feb 09 05:03:50 +0000 2020",
+   "id": 1226371104236851200,
+   "id_str": "1226371104236851200",
+   "text": "@alenwriter @geopolytica @ecucol @ElRebeldeEc @alfolart @Kattybcn @omarbula @monnissima @soypedropedrosa @POTUS… https://t.co/qCmqpX4X56",
+   "display_text_range": [
+    117,
+    140
+   ],
+   "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+   "truncated": true,
+   "in_reply_to_status_id": 1192819128026964000,
+   "in_reply_to_status_id_str": "1192819128026963968",
+   "in_reply_to_user_id": 1549870093,
+   "in_reply_to_user_id_str": "1549870093",
+   "in_reply_to_screen_name": "MyrianeLibre",
+   "user": {
+    "id": 1549870093,
+    "id_str": "1549870093",
+    "name": "Myriane LatAm 🍀",
+    "screen_name": "MyrianeLibre",
+    "location": "Tierra Verde",
+    "url": null,
+    "description": "Against Socialism & corruption. Loyal friend, warrior soul. Multilingual. Master en Educación Universitaria. Exp. Inteligencias Múltiples. Candado? No me sigas",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 8822,
+    "friends_count": 5476,
+    "listed_count": 46,
+    "favourites_count": 37940,
+    "statuses_count": 208135,
+    "created_at": "Thu Jun 27 05:38:24 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9ACBE3",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1226895172392361984/r46eZuTc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226895172392361984/r46eZuTc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549870093/1578971611",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "@alenwriter @geopolytica @ecucol @ElRebeldeEc @alfolart @Kattybcn @omarbula @monnissima @soypedropedrosa @POTUS @DEAHQ #Ecuador\nEsmeraldas: provincia en garras de los narco.\nEnero se inició con una serie de macabros asesinatos y cadáveres mutilados: un cuerpo con la lengua arrancada desde la garganta, otro con la cara partida por un machetazo y los brazos cercenados.\n🔻\nhttps://t.co/14lAhLFQDq",
+    "display_text_range": [
+     119,
+     395
+    ],
+    "entities": {
+     "hashtags": [
+      {
+       "text": "Ecuador",
+       "indices": [
+        119,
+        127
+       ]
+      }
+     ],
+     "urls": [
+      {
+       "url": "https://t.co/14lAhLFQDq",
+       "expanded_url": "https://es.insightcrime.org/noticias/analisis/la-provincia-de-esmeraldas-en-ecuador-joya-para-los-narcos/",
+       "display_url": "es.insightcrime.org/noticias/anali…",
+       "indices": [
+        372,
+        395
+       ]
+      }
+     ],
+     "user_mentions": [
+      {
+       "screen_name": "alenwriter",
+       "name": "Luis Nuila",
+       "id": 2773566085,
+       "id_str": "2773566085",
+       "indices": [
+        0,
+        11
+       ]
+      },
+      {
+       "screen_name": "geopolytica",
+       "name": "George Cassis",
+       "id": 366517094,
+       "id_str": "366517094",
+       "indices": [
+        12,
+        24
+       ]
+      },
+      {
+       "screen_name": "ecucol",
+       "name": "Boris Valenzuela 🇨🇴🇪🇨🇵🇪🇭🇷",
+       "id": 257524253,
+       "id_str": "257524253",
+       "indices": [
+        25,
+        32
+       ]
+      },
+      {
+       "screen_name": "ElRebeldeEc",
+       "name": "El Rebelde Ec",
+       "id": 2952365069,
+       "id_str": "2952365069",
+       "indices": [
+        33,
+        45
+       ]
+      },
+      {
+       "screen_name": "alfolart",
+       "name": "Alfredo Olarte 🇺🇸Trumper",
+       "id": 48204443,
+       "id_str": "48204443",
+       "indices": [
+        46,
+        55
+       ]
+      },
+      {
+       "screen_name": "Kattybcn",
+       "name": "y- estodigo-yo",
+       "id": 2610502687,
+       "id_str": "2610502687",
+       "indices": [
+        56,
+        65
+       ]
+      },
+      {
+       "screen_name": "omarbula",
+       "name": "O. Bula-Escobar",
+       "id": 192538987,
+       "id_str": "192538987",
+       "indices": [
+        66,
+        75
+       ]
+      },
+      {
+       "screen_name": "monnissima",
+       "name": "monnissima",
+       "id": 53229883,
+       "id_str": "53229883",
+       "indices": [
+        76,
+        87
+       ]
+      },
+      {
+       "screen_name": "soypedropedrosa",
+       "name": "Pedro Luis Pedrosa Rodriguez",
+       "id": 48132495,
+       "id_str": "48132495",
+       "indices": [
+        88,
+        104
+       ]
+      },
+      {
+       "screen_name": "POTUS",
+       "name": "President Trump",
+       "id": 822215679726100500,
+       "id_str": "822215679726100480",
+       "indices": [
+        105,
+        111
+       ]
+      },
+      {
+       "screen_name": "DEAHQ",
+       "name": "DEA HQ",
+       "id": 180815351,
+       "id_str": "180815351",
+       "indices": [
+        112,
+        118
+       ]
+      }
+     ],
+     "symbols": []
+    }
+   },
+   "quote_count": 1,
+   "reply_count": 4,
+   "retweet_count": 21,
+   "favorite_count": 13,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/qCmqpX4X56",
+      "expanded_url": "https://twitter.com/i/web/status/1226371104236851200",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       113,
+       136
+      ]
+     }
+    ],
+    "user_mentions": [
+     {
+      "screen_name": "alenwriter",
+      "name": "Luis Nuila",
+      "id": 2773566085,
+      "id_str": "2773566085",
+      "indices": [
+       0,
+       11
+      ]
+     },
+     {
+      "screen_name": "geopolytica",
+      "name": "George Cassis",
+      "id": 366517094,
+      "id_str": "366517094",
+      "indices": [
+       12,
+       24
+      ]
+     },
+     {
+      "screen_name": "ecucol",
+      "name": "Boris Valenzuela 🇨🇴🇪🇨🇵🇪🇭🇷",
+      "id": 257524253,
+      "id_str": "257524253",
+      "indices": [
+       25,
+       32
+      ]
+     },
+     {
+      "screen_name": "ElRebeldeEc",
+      "name": "El Rebelde Ec",
+      "id": 2952365069,
+      "id_str": "2952365069",
+      "indices": [
+       33,
+       45
+      ]
+     },
+     {
+      "screen_name": "alfolart",
+      "name": "Alfredo Olarte 🇺🇸Trumper",
+      "id": 48204443,
+      "id_str": "48204443",
+      "indices": [
+       46,
+       55
+      ]
+     },
+     {
+      "screen_name": "Kattybcn",
+      "name": "y- estodigo-yo",
+      "id": 2610502687,
+      "id_str": "2610502687",
+      "indices": [
+       56,
+       65
+      ]
+     },
+     {
+      "screen_name": "omarbula",
+      "name": "O. Bula-Escobar",
+      "id": 192538987,
+      "id_str": "192538987",
+      "indices": [
+       66,
+       75
+      ]
+     },
+     {
+      "screen_name": "monnissima",
+      "name": "monnissima",
+      "id": 53229883,
+      "id_str": "53229883",
+      "indices": [
+       76,
+       87
+      ]
+     },
+     {
+      "screen_name": "soypedropedrosa",
+      "name": "Pedro Luis Pedrosa Rodriguez",
+      "id": 48132495,
+      "id_str": "48132495",
+      "indices": [
+       88,
+       104
+      ]
+     },
+     {
+      "screen_name": "POTUS",
+      "name": "President Trump",
+      "id": 822215679726100500,
+      "id_str": "822215679726100480",
+      "indices": [
+       105,
+       111
+      ]
+     }
+    ],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "MyrianeLibre",
+     "name": "Myriane LatAm 🍀",
+     "id": 1549870093,
+     "id_str": "1549870093",
+     "indices": [
+      3,
+      16
+     ]
+    },
+    {
+     "screen_name": "alenwriter",
+     "name": "Luis Nuila",
+     "id": 2773566085,
+     "id_str": "2773566085",
+     "indices": [
+      18,
+      29
+     ]
+    },
+    {
+     "screen_name": "geopolytica",
+     "name": "George Cassis",
+     "id": 366517094,
+     "id_str": "366517094",
+     "indices": [
+      30,
+      42
+     ]
+    },
+    {
+     "screen_name": "ecucol",
+     "name": "Boris Valenzuela 🇨🇴🇪🇨🇵🇪🇭🇷",
+     "id": 257524253,
+     "id_str": "257524253",
+     "indices": [
+      43,
+      50
+     ]
+    },
+    {
+     "screen_name": "ElRebeldeEc",
+     "name": "El Rebelde Ec",
+     "id": 2952365069,
+     "id_str": "2952365069",
+     "indices": [
+      51,
+      63
+     ]
+    },
+    {
+     "screen_name": "alfolart",
+     "name": "Alfredo Olarte 🇺🇸Trumper",
+     "id": 48204443,
+     "id_str": "48204443",
+     "indices": [
+      64,
+      73
+     ]
+    },
+    {
+     "screen_name": "Kattybcn",
+     "name": "y- estodigo-yo",
+     "id": 2610502687,
+     "id_str": "2610502687",
+     "indices": [
+      74,
+      83
+     ]
+    },
+    {
+     "screen_name": "omarbula",
+     "name": "O. Bula-Escobar",
+     "id": 192538987,
+     "id_str": "192538987",
+     "indices": [
+      84,
+      93
+     ]
+    },
+    {
+     "screen_name": "monnissima",
+     "name": "monnissima",
+     "id": 53229883,
+     "id_str": "53229883",
+     "indices": [
+      94,
+      105
+     ]
+    },
+    {
+     "screen_name": "soypedropedrosa",
+     "name": "Pedro Luis Pedrosa Rodriguez",
+     "id": 48132495,
+     "id_str": "48132495",
+(truncated)
+id"1227687406385717250"
+{
+ "id": "1227687406385717250",
+ "key": "1227687406385717250",
+ "value": {
+  "rev": "1-e7b6be6942470993f25828b9172b8572"
+ },
+ "doc": {
+  "_id": "1227687406385717250",
+  "_rev": "1-e7b6be6942470993f25828b9172b8572",
+  "created_at": "Wed Feb 12 20:14:21 +0000 2020",
+  "id": 1227687406385717200,
+  "id_str": "1227687406385717250",
+  "text": "RT @Pepelias17_: El @RealBetisFem de @piercherubino elimina en los penaltis al Atlético de Madrid, campeón de las tres últimas ediciones de…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 360672649,
+   "id_str": "360672649",
+   "name": "jolukaru",
+   "screen_name": "jolukaru",
+   "location": "Ciudad del Real Betis",
+   "url": null,
+   "description": "Community Manager, Marketing digital, estudiante de Ingeniería Industrial Química",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 680,
+   "friends_count": 769,
+   "listed_count": 15,
+   "favourites_count": 11745,
+   "statuses_count": 31291,
+   "created_at": "Tue Aug 23 15:45:23 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": true,
+   "profile_link_color": "0084B4",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/711509998350823424/O_UKkW-9_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/711509998350823424/O_UKkW-9_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/360672649/1469887676",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 20:12:54 +0000 2020",
+   "id": 1227687039396696000,
+   "id_str": "1227687039396696064",
+   "text": "El @RealBetisFem de @piercherubino elimina en los penaltis al Atlético de Madrid, campeón de las tres últimas edici… https://t.co/ZmdJSICBMA",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 856509759545016300,
+    "id_str": "856509759545016321",
+    "name": "Pepe Elías",
+    "screen_name": "Pepelias17_",
+    "location": "Sevilla, España",
+    "url": "http://www.mundodeportivo.com/futbol/betis",
+    "description": "Periodista deportivo, desde 1981. En la Colonia Güell siempre fui el 'sevillano' y en Sevilla, el 'catalán'. #MásMadera",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 16540,
+    "friends_count": 1156,
+    "listed_count": 124,
+    "favourites_count": 198,
+    "statuses_count": 28956,
+    "created_at": "Mon Apr 24 14:06:54 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/953364457899614214/56Qd0ndL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/953364457899614214/56Qd0ndL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/856509759545016321/1493044763",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "El @RealBetisFem de @piercherubino elimina en los penaltis al Atlético de Madrid, campeón de las tres últimas ediciones de la #LigaIberdrola de fútbol femenino y se mete en los cuartos de final de la Copa de la Reina 👏💚⚽🔝 https://t.co/iNZTpjDWJN",
+    "display_text_range": [
+     0,
+     221
+    ],
+    "entities": {
+     "hashtags": [
+      {
+       "text": "LigaIberdrola",
+       "indices": [
+        126,
+        140
+       ]
+      }
+     ],
+     "urls": [],
+     "user_mentions": [
+      {
+       "screen_name": "RealBetisFem",
+       "name": "Real Betis Féminas",
+       "id": 361256051,
+       "id_str": "361256051",
+       "indices": [
+        3,
+        16
+       ]
+      },
+      {
+       "screen_name": "piercherubino",
+       "name": "Pier Cherubino",
+       "id": 224710791,
+       "id_str": "224710791",
+       "indices": [
+        20,
+        34
+       ]
+      }
+     ],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227687027862274000,
+       "id_str": "1227687027862274050",
+       "indices": [
+        222,
+        245
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "url": "https://t.co/iNZTpjDWJN",
+       "display_url": "pic.twitter.com/iNZTpjDWJN",
+       "expanded_url": "https://twitter.com/Pepelias17_/status/1227687039396696064/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "small": {
+         "w": 680,
+         "h": 383,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 675,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1152,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227687027862274000,
+       "id_str": "1227687027862274050",
+       "indices": [
+        222,
+        245
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "url": "https://t.co/iNZTpjDWJN",
+       "display_url": "pic.twitter.com/iNZTpjDWJN",
+       "expanded_url": "https://twitter.com/Pepelias17_/status/1227687039396696064/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "small": {
+         "w": 680,
+         "h": 383,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 675,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1152,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 5,
+   "favorite_count": 9,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/ZmdJSICBMA",
+      "expanded_url": "https://twitter.com/i/web/status/1227687039396696064",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [
+     {
+      "screen_name": "RealBetisFem",
+      "name": "Real Betis Féminas",
+      "id": 361256051,
+      "id_str": "361256051",
+      "indices": [
+       3,
+       16
+      ]
+     },
+     {
+      "screen_name": "piercherubino",
+      "name": "Pier Cherubino",
+      "id": 224710791,
+      "id_str": "224710791",
+      "indices": [
+       20,
+       34
+      ]
+     }
+    ],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pepelias17_",
+     "name": "Pepe Elías",
+     "id": 856509759545016300,
+     "id_str": "856509759545016321",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "RealBetisFem",
+     "name": "Real Betis Féminas",
+     "id": 361256051,
+     "id_str": "361256051",
+     "indices": [
+      20,
+      33
+     ]
+    },
+    {
+     "screen_name": "piercherubino",
+     "name": "Pier Cherubino",
+     "id": 224710791,
+     "id_str": "224710791",
+     "indices": [
+      37,
+      51
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538461668"
+ }
+}
+id"1227687409208512513"
+{
+ "id": "1227687409208512513",
+ "key": "1227687409208512513",
+ "value": {
+  "rev": "1-cb419216c43b8715836d177f670f4bd7"
+ },
+ "doc": {
+  "_id": "1227687409208512513",
+  "_rev": "1-cb419216c43b8715836d177f670f4bd7",
+  "created_at": "Wed Feb 12 20:14:22 +0000 2020",
+  "id": 1227687409208512500,
+  "id_str": "1227687409208512513",
+  "text": "RT @RaterOck: Vuelve el fútbol uruguayo https://t.co/LApKoAmze5",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 246347370,
+   "id_str": "246347370",
+   "name": "Jorge Rico",
+   "screen_name": "JorgeRico21",
+   "location": "Orizaba, Veracruz",
+   "url": null,
+   "description": "#VetLife \n🐶🐱🐴🐮🐷🐏\nGunner, Giallorosso, Dortmund, Cementero, Dodger y Raven. \nVivir es un deporte.",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 745,
+   "friends_count": 917,
+   "listed_count": 11,
+   "favourites_count": 2957,
+   "statuses_count": 77250,
+   "created_at": "Wed Feb 02 16:39:31 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "0054FC",
+   "profile_sidebar_border_color": "FFFFFF",
+   "profile_sidebar_fill_color": "BDB4D4",
+   "profile_text_color": "0511FA",
+   "profile_use_background_image": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/528780861748281344/-CXmhCUz_normal.jpeg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/528780861748281344/-CXmhCUz_normal.jpeg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/246347370/1352576819",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 00:02:36 +0000 2020",
+   "id": 1227382460784238600,
+   "id_str": "1227382460784238592",
+   "text": "Vuelve el fútbol uruguayo https://t.co/LApKoAmze5",
+   "display_text_range": [
+    0,
+    25
+   ],
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 105805767,
+    "id_str": "105805767",
+    "name": "elRata",
+    "screen_name": "RaterOck",
+    "location": null,
+    "url": null,
+    "description": "Años de experiencia en fracasar en nuevos proyectos me avalan.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 14621,
+    "friends_count": 973,
+    "listed_count": 74,
+    "favourites_count": 82899,
+    "statuses_count": 18406,
+    "created_at": "Sun Jan 17 14:58:37 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4C5457",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1209963724506902530/X0Rq5AoS_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209963724506902530/X0Rq5AoS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/105805767/1577311743",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 1293,
+   "reply_count": 365,
+   "retweet_count": 6759,
+   "favorite_count": 21215,
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+     {
+      "id": 1227382244454682600,
+      "id_str": "1227382244454682625",
+      "indices": [
+       26,
+       49
+      ],
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+      "url": "https://t.co/LApKoAmze5",
+      "display_url": "pic.twitter.com/LApKoAmze5",
+      "expanded_url": "https://twitter.com/RaterOck/status/1227382460784238592/video/1",
+      "type": "photo",
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1280,
+        "h": 720,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1227382244454682600,
+      "id_str": "1227382244454682625",
+      "indices": [
+       26,
+       49
+      ],
+      "additional_media_info": {
+       "monetizable": false
+      },
+      "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+      "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+      "url": "https://t.co/LApKoAmze5",
+      "display_url": "pic.twitter.com/LApKoAmze5",
+      "expanded_url": "https://twitter.com/RaterOck/status/1227382460784238592/video/1",
+      "type": "video",
+      "video_info": {
+       "aspect_ratio": [
+        16,
+        9
+       ],
+       "duration_millis": 71933,
+       "variants": [
+        {
+         "content_type": "application/x-mpegURL",
+         "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/pl/n6ETRMXACUY2R81U.m3u8?tag=10"
+        },
+        {
+         "bitrate": 256000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/vid/480x270/gcamS8TO6nNFl2zv.mp4?tag=10"
+        },
+        {
+         "bitrate": 832000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/vid/640x360/VXmGc712a1obgF5P.mp4?tag=10"
+        },
+        {
+         "bitrate": 2176000,
+         "content_type": "video/mp4",
+         "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/vid/1280x720/pGqeC_Sd_T5EHNy3.mp4?tag=10"
+        }
+       ]
+      },
+      "sizes": {
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 1200,
+        "h": 675,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 680,
+        "h": 383,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 1280,
+        "h": 720,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "RaterOck",
+     "name": "elRata",
+     "id": 105805767,
+     "id_str": "105805767",
+     "indices": [
+      3,
+      12
+     ]
+    }
+   ],
+   "symbols": [],
+   "media": [
+    {
+     "id": 1227382244454682600,
+     "id_str": "1227382244454682625",
+     "indices": [
+      40,
+      63
+     ],
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+     "url": "https://t.co/LApKoAmze5",
+     "display_url": "pic.twitter.com/LApKoAmze5",
+     "expanded_url": "https://twitter.com/RaterOck/status/1227382460784238592/video/1",
+     "type": "photo",
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1227382460784238600,
+     "source_status_id_str": "1227382460784238592",
+     "source_user_id": 105805767,
+     "source_user_id_str": "105805767"
+    }
+   ]
+  },
+  "extended_entities": {
+   "media": [
+    {
+     "id": 1227382244454682600,
+     "id_str": "1227382244454682625",
+     "indices": [
+      40,
+      63
+     ],
+     "additional_media_info": {
+      "monetizable": false
+     },
+     "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+     "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1227382244454682625/pu/img/kLrJ4jqbMLxAtxhr.jpg",
+     "url": "https://t.co/LApKoAmze5",
+     "display_url": "pic.twitter.com/LApKoAmze5",
+     "expanded_url": "https://twitter.com/RaterOck/status/1227382460784238592/video/1",
+     "type": "video",
+     "video_info": {
+      "aspect_ratio": [
+       16,
+       9
+      ],
+      "duration_millis": 71933,
+      "variants": [
+       {
+        "content_type": "application/x-mpegURL",
+        "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/pl/n6ETRMXACUY2R81U.m3u8?tag=10"
+       },
+       {
+        "bitrate": 256000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/vid/480x270/gcamS8TO6nNFl2zv.mp4?tag=10"
+       },
+       {
+        "bitrate": 832000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/vid/640x360/VXmGc712a1obgF5P.mp4?tag=10"
+       },
+       {
+        "bitrate": 2176000,
+        "content_type": "video/mp4",
+        "url": "https://video.twimg.com/ext_tw_video/1227382244454682625/pu/vid/1280x720/pGqeC_Sd_T5EHNy3.mp4?tag=10"
+       }
+      ]
+     },
+     "sizes": {
+      "thumb": {
+       "w": 150,
+       "h": 150,
+       "resize": "crop"
+      },
+      "medium": {
+       "w": 1200,
+       "h": 675,
+       "resize": "fit"
+      },
+      "small": {
+       "w": 680,
+       "h": 383,
+       "resize": "fit"
+      },
+      "large": {
+       "w": 1280,
+       "h": 720,
+       "resize": "fit"
+      }
+     },
+     "source_status_id": 1227382460784238600,
+     "source_status_id_str": "1227382460784238592",
+     "source_user_id": 105805767,
+     "source_user_id_str": "105805767"
+    }
+   ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538462341"
+ }
+}
+id"1227687410378645505"
+{
+ "id": "1227687410378645505",
+ "key": "1227687410378645505",
+ "value": {
+  "rev": "1-05b3a3f94087257b5dd62344d2b3def4"
+ },
+ "doc": {
+  "_id": "1227687410378645505",
+  "_rev": "1-05b3a3f94087257b5dd62344d2b3def4",
+  "created_at": "Wed Feb 12 20:14:22 +0000 2020",
+  "id": 1227687410378645500,
+  "id_str": "1227687410378645505",
+  "text": "RT @lizam5100472: En Ecuador tenemos en el Chimborazo el punto más cercano al sol, pero también tenemos a los asambleístas más cercanos al…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 855824866439770100,
+   "id_str": "855824866439770116",
+   "name": "Luis I. Reyes Castro",
+   "screen_name": "LI_ReyesCastro",
+   "location": "Guayaquil, Ecuador",
+   "url": "https://scholar.google.com.ec/citations?user=m5dFh6YAAAAJ&hl=en",
+   "description": "Ingeniero y emprendedor. Soy de esas personas que solo quieren ver el mundo arder.",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 1246,
+   "friends_count": 181,
+   "listed_count": 6,
+   "favourites_count": 16543,
+   "statuses_count": 5964,
+   "created_at": "Sat Apr 22 16:45:23 +0000 2017",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1B95E0",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/937414054032887809/g0PQpsEP_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/937414054032887809/g0PQpsEP_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/855824866439770116/1513649520",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 12:55:45 +0000 2020",
+   "id": 1227577028054061000,
+   "id_str": "1227577028054061057",
+   "text": "En Ecuador tenemos en el Chimborazo el punto más cercano al sol, pero también tenemos a los asambleístas más cercan… https://t.co/t3IIz6DfjO",
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1013397554715938800,
+    "id_str": "1013397554715938817",
+    "name": "lizam",
+    "screen_name": "lizam5100472",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2594,
+    "friends_count": 239,
+    "listed_count": 7,
+    "favourites_count": 3136,
+    "statuses_count": 5095,
+    "created_at": "Sun Jul 01 12:22:59 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1052391529610977280/_R-z3Wk3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1052391529610977280/_R-z3Wk3_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "En Ecuador tenemos en el Chimborazo el punto más cercano al sol, pero también tenemos a los asambleístas más cercanos al punto máximo  de estupidez humana e inutilidad.",
+    "display_text_range": [
+     0,
+     168
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [],
+     "symbols": []
+    }
+   },
+   "quote_count": 8,
+   "reply_count": 21,
+   "retweet_count": 146,
+   "favorite_count": 481,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/t3IIz6DfjO",
+      "expanded_url": "https://twitter.com/i/web/status/1227577028054061057",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "lizam5100472",
+     "name": "lizam",
+     "id": 1013397554715938800,
+     "id_str": "1013397554715938817",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538462620"
+ }
+}
+id"1227687411016036352"
+{
+ "id": "1227687411016036352",
+ "key": "1227687411016036352",
+ "value": {
+  "rev": "1-e77c2eaa746e3541153cce980d18c688"
+ },
+ "doc": {
+  "_id": "1227687411016036352",
+  "_rev": "1-e77c2eaa746e3541153cce980d18c688",
+  "created_at": "Wed Feb 12 20:14:22 +0000 2020",
+  "id": 1227687411016036400,
+  "id_str": "1227687411016036352",
+  "text": "RT @_Analistas: ¡CUMPLEAÑERO! 😈🥳\n\nHoy cumple años el verdadero quinto grande del fútbol mexicano. 10 títulos de liga, tercer máximo ganador…",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 1072589095,
+   "id_str": "1072589095",
+   "name": "Alan Lopez Herrera",
+   "screen_name": "AlanLopHerrera0",
+   "location": "Tijuana,Baja California ",
+   "url": "http://www.instagram.com/alan_lopezherrera",
+   "description": null,
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 60,
+   "friends_count": 4946,
+   "listed_count": 1,
+   "favourites_count": 342361,
+   "statuses_count": 236718,
+   "created_at": "Wed Jan 09 02:05:19 +0000 2013",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1224559925205987328/MaU1owFR_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224559925205987328/MaU1owFR_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072589095/1579057109",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 17:46:08 +0000 2020",
+   "id": 1227650105941151700,
+   "id_str": "1227650105941151750",
+   "text": "¡CUMPLEAÑERO! 😈🥳\n\nHoy cumple años el verdadero quinto grande del fútbol mexicano. 10 títulos de liga, tercer máximo… https://t.co/PqWuEEEQw3",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 1090432536696836100,
+    "id_str": "1090432536696836096",
+    "name": "Analistas",
+    "screen_name": "_Analistas",
+    "location": null,
+    "url": "http://www.analistasoficial.com",
+    "description": "Lo mejor del fútbol mexicano e internacional 🇲🇽🌎\n\n• Escríbenos: contacto@analistasoficial.com\n• Facebook: Analistas\n• Instagram: somosanalistas",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 27856,
+    "friends_count": 119,
+    "listed_count": 20,
+    "favourites_count": 1793,
+    "statuses_count": 12707,
+    "created_at": "Wed Jan 30 02:12:30 +0000 2019",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1221312733771005952/9HgNEJJJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1221312733771005952/9HgNEJJJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090432536696836096/1580193868",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "¡CUMPLEAÑERO! 😈🥳\n\nHoy cumple años el verdadero quinto grande del fútbol mexicano. 10 títulos de liga, tercer máximo ganador, y bicampeón de la CONCACAF. Tuvieron el mejor equipo de la historia de la Primera División de la mano de José Cardozo\n\n¡Felices 103 @TolucaFC! 🔴🎉 https://t.co/JYlKERltMD",
+    "display_text_range": [
+     0,
+     270
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "screen_name": "TolucaFC",
+       "name": "Toluca FC",
+       "id": 250419604,
+       "id_str": "250419604",
+       "indices": [
+        257,
+        266
+       ]
+      }
+     ],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227650098156490800,
+       "id_str": "1227650098156490752",
+       "indices": [
+        271,
+        294
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQl9QokXUAAlFWs.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQl9QokXUAAlFWs.jpg",
+       "url": "https://t.co/JYlKERltMD",
+       "display_url": "pic.twitter.com/JYlKERltMD",
+       "expanded_url": "https://twitter.com/_Analistas/status/1227650105941151750/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "medium": {
+         "w": 1080,
+         "h": 1080,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 1080,
+         "h": 1080,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 680,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227650098156490800,
+       "id_str": "1227650098156490752",
+       "indices": [
+        271,
+        294
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQl9QokXUAAlFWs.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQl9QokXUAAlFWs.jpg",
+       "url": "https://t.co/JYlKERltMD",
+       "display_url": "pic.twitter.com/JYlKERltMD",
+       "expanded_url": "https://twitter.com/_Analistas/status/1227650105941151750/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "medium": {
+         "w": 1080,
+         "h": 1080,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 1080,
+         "h": 1080,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 680,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 2,
+   "reply_count": 3,
+   "retweet_count": 25,
+   "favorite_count": 168,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/PqWuEEEQw3",
+      "expanded_url": "https://twitter.com/i/web/status/1227650105941151750",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "_Analistas",
+     "name": "Analistas",
+     "id": 1090432536696836100,
+     "id_str": "1090432536696836096",
+     "indices": [
+      3,
+      14
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538462772"
+ }
+}
+id"1227687411536322561"
+{
+ "id": "1227687411536322561",
+ "key": "1227687411536322561",
+ "value": {
+  "rev": "1-277930f63e0ca8b01ee3e075ff397cd6"
+ },
+ "doc": {
+  "_id": "1227687411536322561",
+  "_rev": "1-277930f63e0ca8b01ee3e075ff397cd6",
+  "created_at": "Wed Feb 12 20:14:22 +0000 2020",
+  "id": 1227687411536322600,
+  "id_str": "1227687411536322561",
+  "text": "@imagenesymas01 @PiensaPrensa El grupo vive de eventos y si le pagan cuál sería el problema? Muestrame a Canela alabándolo para creerte",
+  "display_text_range": [
+   30,
+   135
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1227685911405768700,
+  "in_reply_to_status_id_str": "1227685911405768705",
+  "in_reply_to_user_id": 905190289916256300,
+  "in_reply_to_user_id_str": "905190289916256258",
+  "in_reply_to_screen_name": "imagenesymas01",
+  "user": {
+   "id": 2162416683,
+   "id_str": "2162416683",
+   "name": "#fuerapiñera",
+   "screen_name": "aerc24",
+   "location": null,
+   "url": null,
+   "description": null,
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 483,
+   "friends_count": 525,
+   "listed_count": 0,
+   "favourites_count": 316,
+   "statuses_count": 235,
+   "created_at": "Thu Oct 31 21:47:08 +0000 2013",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1203009874348724226/FqkDj2Xf_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203009874348724226/FqkDj2Xf_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2162416683/1579885507",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "imagenesymas01",
+     "name": "Carlos Cede",
+     "id": 905190289916256300,
+     "id_str": "905190289916256258",
+     "indices": [
+      0,
+      15
+     ]
+    },
+    {
+     "screen_name": "PiensaPrensa",
+     "name": "PIENSAPRENSA OFICIAL +56971588649",
+     "id": 3517444829,
+     "id_str": "3517444829",
+     "indices": [
+      16,
+      29
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538462896"
+ }
+}
+id"1227687412106657792"
+{
+ "id": "1227687412106657792",
+ "key": "1227687412106657792",
+ "value": {
+  "rev": "1-64099d6cad0e8d58626979449839f99f"
+ },
+ "doc": {
+  "_id": "1227687412106657792",
+  "_rev": "1-64099d6cad0e8d58626979449839f99f",
+  "created_at": "Wed Feb 12 20:14:23 +0000 2020",
+  "id": 1227687412106657800,
+  "id_str": "1227687412106657792",
+  "text": "RT @Pepelias17_: El @RealBetisFem de @piercherubino elimina en los penaltis al Atlético de Madrid, campeón de las tres últimas ediciones de…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 397931748,
+   "id_str": "397931748",
+   "name": "Salva Romero",
+   "screen_name": "salvaromero4",
+   "location": "Algar",
+   "url": null,
+   "description": "Un loco del Fútbol, Futuro Ingeniero Forestal y del Medio Natural! BÉTICO, CARNAVALERO Y MORANTISTA....",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 751,
+   "friends_count": 746,
+   "listed_count": 8,
+   "favourites_count": 224,
+   "statuses_count": 27386,
+   "created_at": "Tue Oct 25 10:36:37 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/915163038482931713/kmhObZoS_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/915163038482931713/kmhObZoS_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/397931748/1371164337",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 20:12:54 +0000 2020",
+   "id": 1227687039396696000,
+   "id_str": "1227687039396696064",
+   "text": "El @RealBetisFem de @piercherubino elimina en los penaltis al Atlético de Madrid, campeón de las tres últimas edici… https://t.co/ZmdJSICBMA",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 856509759545016300,
+    "id_str": "856509759545016321",
+    "name": "Pepe Elías",
+    "screen_name": "Pepelias17_",
+    "location": "Sevilla, España",
+    "url": "http://www.mundodeportivo.com/futbol/betis",
+    "description": "Periodista deportivo, desde 1981. En la Colonia Güell siempre fui el 'sevillano' y en Sevilla, el 'catalán'. #MásMadera",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 16540,
+    "friends_count": 1156,
+    "listed_count": 124,
+    "favourites_count": 198,
+    "statuses_count": 28956,
+    "created_at": "Mon Apr 24 14:06:54 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/953364457899614214/56Qd0ndL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/953364457899614214/56Qd0ndL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/856509759545016321/1493044763",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "El @RealBetisFem de @piercherubino elimina en los penaltis al Atlético de Madrid, campeón de las tres últimas ediciones de la #LigaIberdrola de fútbol femenino y se mete en los cuartos de final de la Copa de la Reina 👏💚⚽🔝 https://t.co/iNZTpjDWJN",
+    "display_text_range": [
+     0,
+     221
+    ],
+    "entities": {
+     "hashtags": [
+      {
+       "text": "LigaIberdrola",
+       "indices": [
+        126,
+        140
+       ]
+      }
+     ],
+     "urls": [],
+     "user_mentions": [
+      {
+       "screen_name": "RealBetisFem",
+       "name": "Real Betis Féminas",
+       "id": 361256051,
+       "id_str": "361256051",
+       "indices": [
+        3,
+        16
+       ]
+      },
+      {
+       "screen_name": "piercherubino",
+       "name": "Pier Cherubino",
+       "id": 224710791,
+       "id_str": "224710791",
+       "indices": [
+        20,
+        34
+       ]
+      }
+     ],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227687027862274000,
+       "id_str": "1227687027862274050",
+       "indices": [
+        222,
+        245
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "url": "https://t.co/iNZTpjDWJN",
+       "display_url": "pic.twitter.com/iNZTpjDWJN",
+       "expanded_url": "https://twitter.com/Pepelias17_/status/1227687039396696064/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "small": {
+         "w": 680,
+         "h": 383,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 675,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1152,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227687027862274000,
+       "id_str": "1227687027862274050",
+       "indices": [
+        222,
+        245
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQme2OcWAAIr2HN.jpg",
+       "url": "https://t.co/iNZTpjDWJN",
+       "display_url": "pic.twitter.com/iNZTpjDWJN",
+       "expanded_url": "https://twitter.com/Pepelias17_/status/1227687039396696064/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "small": {
+         "w": 680,
+         "h": 383,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 675,
+         "resize": "fit"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1152,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 6,
+   "favorite_count": 9,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/ZmdJSICBMA",
+      "expanded_url": "https://twitter.com/i/web/status/1227687039396696064",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [
+     {
+      "screen_name": "RealBetisFem",
+      "name": "Real Betis Féminas",
+      "id": 361256051,
+      "id_str": "361256051",
+      "indices": [
+       3,
+       16
+      ]
+     },
+     {
+      "screen_name": "piercherubino",
+      "name": "Pier Cherubino",
+      "id": 224710791,
+      "id_str": "224710791",
+      "indices": [
+       20,
+       34
+      ]
+     }
+    ],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "Pepelias17_",
+     "name": "Pepe Elías",
+     "id": 856509759545016300,
+     "id_str": "856509759545016321",
+     "indices": [
+      3,
+      15
+     ]
+    },
+    {
+     "screen_name": "RealBetisFem",
+     "name": "Real Betis Féminas",
+     "id": 361256051,
+     "id_str": "361256051",
+     "indices": [
+      20,
+      33
+     ]
+    },
+    {
+     "screen_name": "piercherubino",
+     "name": "Pier Cherubino",
+     "id": 224710791,
+     "id_str": "224710791",
+     "indices": [
+      37,
+      51
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538463032"
+ }
+}
+id"1227687415676067840"
+{
+ "id": "1227687415676067840",
+ "key": "1227687415676067840",
+ "value": {
+  "rev": "1-e672213c96541f32f2d50b63d31e8d44"
+ },
+ "doc": {
+  "_id": "1227687415676067840",
+  "_rev": "1-e672213c96541f32f2d50b63d31e8d44",
+  "created_at": "Wed Feb 12 20:14:23 +0000 2020",
+  "id": 1227687415676067800,
+  "id_str": "1227687415676067840",
+  "text": "RT @DefensorSp: ✍️🏼 Firmamos con @PUMA_Uy \n\nLa nueva indumentaria deportiva para PRIMERA DIVISIÓN de Fútbol será estrenada en el mes de SET…",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 2705167722,
+   "id_str": "2705167722",
+   "name": "ß  Λ  Ր  ૦  Ո  ૯",
+   "screen_name": "Baronelvp",
+   "location": "Barone Canavese, Piemonte",
+   "url": null,
+   "description": "\"Mirar para atrás casi siempre paraliza los pies” // Lvp // Lpda //Snapchat: matiasbarone // Hp// Defensor Sporting// Duko",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 789,
+   "friends_count": 608,
+   "listed_count": 1,
+   "favourites_count": 6324,
+   "statuses_count": 10042,
+   "created_at": "Sun Aug 03 23:52:18 +0000 2014",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "123456",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1219332886777733126/WB7X0yI7_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219332886777733126/WB7X0yI7_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2705167722/1563239449",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 19:58:07 +0000 2020",
+   "id": 1227683319275495400,
+   "id_str": "1227683319275495424",
+   "text": "✍️🏼 Firmamos con @PUMA_Uy \n\nLa nueva indumentaria deportiva para PRIMERA DIVISIÓN de Fútbol será estrenada en el me… https://t.co/meYWUSWsxX",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 106046802,
+    "id_str": "106046802",
+    "name": "Defensor Sporting",
+    "screen_name": "DefensorSp",
+    "location": null,
+    "url": "http://www.defensorsporting.com.uy",
+    "description": "Twitter oficial de Defensor Sporting Club |  http://fb.com/defensorsp | http://instagr.am/defensorsp |",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 33550,
+    "friends_count": 42,
+    "listed_count": 245,
+    "favourites_count": 827,
+    "statuses_count": 5088,
+    "created_at": "Mon Jan 18 09:43:57 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0C0529",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "724BAA",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1227313036081410048/FLKhznF1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227313036081410048/FLKhznF1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/106046802/1581349529",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "✍️🏼 Firmamos con @PUMA_Uy \n\nLa nueva indumentaria deportiva para PRIMERA DIVISIÓN de Fútbol será estrenada en el mes de SETIEMBRE del 2020.\n\nEn los próximos meses estará disponible para la pre-venta en nuestra TIENDA OFICIAL. https://t.co/5EhiuFhPog",
+    "display_text_range": [
+     0,
+     225
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [
+      {
+       "screen_name": "PUMA_Uy",
+       "name": "PUMA Uruguay",
+       "id": 2188266289,
+       "id_str": "2188266289",
+       "indices": [
+        17,
+        25
+       ]
+      }
+     ],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227683297481953300,
+       "id_str": "1227683297481953280",
+       "indices": [
+        226,
+        249
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQmbdFsXkAAbnv_.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQmbdFsXkAAbnv_.jpg",
+       "url": "https://t.co/5EhiuFhPog",
+       "display_url": "pic.twitter.com/5EhiuFhPog",
+       "expanded_url": "https://twitter.com/DefensorSp/status/1227683319275495424/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1165,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 683,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 387,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227683297481953300,
+       "id_str": "1227683297481953280",
+       "indices": [
+        226,
+        249
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQmbdFsXkAAbnv_.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQmbdFsXkAAbnv_.jpg",
+       "url": "https://t.co/5EhiuFhPog",
+       "display_url": "pic.twitter.com/5EhiuFhPog",
+       "expanded_url": "https://twitter.com/DefensorSp/status/1227683319275495424/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 2048,
+         "h": 1165,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1200,
+         "h": 683,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 387,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 10,
+   "reply_count": 2,
+   "retweet_count": 10,
+   "favorite_count": 70,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/meYWUSWsxX",
+      "expanded_url": "https://twitter.com/i/web/status/1227683319275495424",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [
+     {
+      "screen_name": "PUMA_Uy",
+      "name": "PUMA Uruguay",
+      "id": 2188266289,
+      "id_str": "2188266289",
+      "indices": [
+       17,
+       25
+      ]
+     }
+    ],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "DefensorSp",
+     "name": "Defensor Sporting",
+     "id": 106046802,
+     "id_str": "106046802",
+     "indices": [
+      3,
+      14
+     ]
+    },
+    {
+     "screen_name": "PUMA_Uy",
+     "name": "PUMA Uruguay",
+     "id": 2188266289,
+     "id_str": "2188266289",
+     "indices": [
+      33,
+      41
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538463883"
+ }
+}
+id"1227687419652329483"
+{
+ "id": "1227687419652329483",
+ "key": "1227687419652329483",
+ "value": {
+  "rev": "1-bb10b8277117f42be94ef87c14621cdf"
+ },
+ "doc": {
+  "_id": "1227687419652329483",
+  "_rev": "1-bb10b8277117f42be94ef87c14621cdf",
+  "created_at": "Wed Feb 12 20:14:24 +0000 2020",
+  "id": 1227687419652329500,
+  "id_str": "1227687419652329483",
+  "text": "@angelgarridog Garantizar el reparto urbano y la seguridad vial implica REGULAR y eliminar del centro de Madrid y a… https://t.co/DxRNS7hhUP",
+  "display_text_range": [
+   15,
+   140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1227554706773414000,
+  "in_reply_to_status_id_str": "1227554706773413888",
+  "in_reply_to_user_id": 71226922,
+  "in_reply_to_user_id_str": "71226922",
+  "in_reply_to_screen_name": "angelgarridog",
+  "user": {
+   "id": 970001481767276500,
+   "id_str": "970001481767276544",
+   "name": "De Niro",
+   "screen_name": "71DeNiro",
+   "location": null,
+   "url": null,
+   "description": null,
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 27,
+   "friends_count": 25,
+   "listed_count": 0,
+   "favourites_count": 696,
+   "statuses_count": 800,
+   "created_at": "Sat Mar 03 18:22:29 +0000 2018",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1028651506369748993/O1mjiKx7_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028651506369748993/O1mjiKx7_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/970001481767276544/1520103379",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+   "full_text": "@angelgarridog Garantizar el reparto urbano y la seguridad vial implica REGULAR y eliminar del centro de Madrid y aledaños de eventos y aerop más de la mitad de los 9000 coches negros descontrolados y sin norma alguna que no dejan de invadir las calles de Madrid generando una inseguridad letal",
+   "display_text_range": [
+    15,
+    294
+   ],
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+     {
+      "screen_name": "angelgarridog",
+      "name": "Ángel Garrido",
+      "id": 71226922,
+      "id_str": "71226922",
+      "indices": [
+       0,
+       14
+      ]
+     }
+    ],
+    "symbols": []
+   }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [
+    {
+     "url": "https://t.co/DxRNS7hhUP",
+     "expanded_url": "https://twitter.com/i/web/status/1227687419652329483",
+     "display_url": "twitter.com/i/web/status/1…",
+     "indices": [
+      117,
+      140
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "angelgarridog",
+     "name": "Ángel Garrido",
+     "id": 71226922,
+     "id_str": "71226922",
+     "indices": [
+      0,
+      14
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538464831"
+ }
+}
+id"1227687423406149634"
+{
+ "id": "1227687423406149634",
+ "key": "1227687423406149634",
+ "value": {
+  "rev": "1-6fcd4ee044e28b0f09f53548ffbfa559"
+ },
+ "doc": {
+  "_id": "1227687423406149634",
+  "_rev": "1-6fcd4ee044e28b0f09f53548ffbfa559",
+  "created_at": "Wed Feb 12 20:14:25 +0000 2020",
+  "id": 1227687423406149600,
+  "id_str": "1227687423406149634",
+  "text": "@ovejalvp6 @URUGUAYLATECAP @RodrigoRomano76 A nadie le importa si jugas o no total tu fútbol no es profesional , beso",
+  "display_text_range": [
+   44,
+   117
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1227560702635843600,
+  "in_reply_to_status_id_str": "1227560702635843584",
+  "in_reply_to_user_id": 439361289,
+  "in_reply_to_user_id_str": "439361289",
+  "in_reply_to_screen_name": "ovejalvp6",
+  "user": {
+   "id": 1203375795563044900,
+   "id_str": "1203375795563044864",
+   "name": "Toto1891",
+   "screen_name": "Lucaschaftare19",
+   "location": null,
+   "url": null,
+   "description": "del Manya toda la vida\n\n📲 @DuraznoreydeCopas",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 176,
+   "friends_count": 193,
+   "listed_count": 0,
+   "favourites_count": 1820,
+   "statuses_count": 1543,
+   "created_at": "Sat Dec 07 18:09:12 +0000 2019",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1203376175755808774/x1CaE4Va_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203376175755808774/x1CaE4Va_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1203375795563044864/1581178098",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "ovejalvp6",
+     "name": "oveja",
+     "id": 439361289,
+     "id_str": "439361289",
+     "indices": [
+      0,
+      10
+     ]
+    },
+    {
+     "screen_name": "URUGUAYLATECAP",
+     "name": "@URUGUAYLATECAP ®",
+     "id": 257893051,
+     "id_str": "257893051",
+     "indices": [
+      11,
+      26
+     ]
+    },
+    {
+     "screen_name": "RodrigoRomano76",
+     "name": "Rodrigo Romano",
+     "id": 149265907,
+     "id_str": "149265907",
+     "indices": [
+      27,
+      43
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538465726"
+ }
+}
+id"1227687423913664519"
+{
+ "id": "1227687423913664519",
+ "key": "1227687423913664519",
+ "value": {
+  "rev": "1-eec9d34cfb5be45f73c5613a440e9499"
+ },
+ "doc": {
+  "_id": "1227687423913664519",
+  "_rev": "1-eec9d34cfb5be45f73c5613a440e9499",
+  "created_at": "Wed Feb 12 20:14:25 +0000 2020",
+  "id": 1227687423913664500,
+  "id_str": "1227687423913664519",
+  "text": "RT @Angelalerena: Es conmovedora la militancia del fútbol femenino que hacemos las periodistas deportivas. Todas, prácticamente sin excepci…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 2904580162,
+   "id_str": "2904580162",
+   "name": "Carmen💚#abortolegal💚",
+   "screen_name": "carmenv_castro",
+   "location": "Ciudad Autónoma de Buenos Aire",
+   "url": null,
+   "description": "💚feminista en construcción..\n✏Amor por el arte #bordar #diseñar #crear #fluir @phawaybordados \n🎶Pasión por la música..viajar..❤ por  #Independiente",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 120,
+   "friends_count": 280,
+   "listed_count": 1,
+   "favourites_count": 47140,
+   "statuses_count": 19607,
+   "created_at": "Thu Dec 04 01:28:20 +0000 2014",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": true,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "000000",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "0084B4",
+   "profile_sidebar_border_color": "000000",
+   "profile_sidebar_fill_color": "000000",
+   "profile_text_color": "000000",
+   "profile_use_background_image": false,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1165491647108587520/6_AInz-C_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165491647108587520/6_AInz-C_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/2904580162/1573515225",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 18:22:46 +0000 2020",
+   "id": 1227659323360325600,
+   "id_str": "1227659323360325633",
+   "text": "Es conmovedora la militancia del fútbol femenino que hacemos las periodistas deportivas. Todas, prácticamente sin e… https://t.co/0qRfZ9KSG7",
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 148753334,
+    "id_str": "148753334",
+    "name": "Angela Lerena 🏟",
+    "screen_name": "Angelalerena",
+    "location": "Argentina",
+    "url": "http://Instagram.com/angela.lerena",
+    "description": "Periodista. Comento fútbol en @TNTSportsLA. Trabajé en TyC Sports, Fútbol Para Todos, ESPN, TVPública, Diario Crítica y Revista Un Caño. Vivir es tomar partido.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 220311,
+    "friends_count": 1965,
+    "listed_count": 1031,
+    "favourites_count": 18501,
+    "statuses_count": 68355,
+    "created_at": "Thu May 27 14:24:14 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "4A913C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1219953672320405505/uBUgBBBB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219953672320405505/uBUgBBBB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/148753334/1579904133",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "Es conmovedora la militancia del fútbol femenino que hacemos las periodistas deportivas. Todas, prácticamente sin excepción, peleando para que tenga lugar y respeto en nuestros medios. Más lindo, imposible.",
+    "display_text_range": [
+     0,
+     206
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [],
+     "symbols": []
+    }
+   },
+   "quote_count": 6,
+   "reply_count": 8,
+   "retweet_count": 39,
+   "favorite_count": 360,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/0qRfZ9KSG7",
+      "expanded_url": "https://twitter.com/i/web/status/1227659323360325633",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "Angelalerena",
+     "name": "Angela Lerena 🏟",
+     "id": 148753334,
+     "id_str": "148753334",
+     "indices": [
+      3,
+      16
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538465847"
+ }
+}
+id"1227687424156938240"
+{
+ "id": "1227687424156938240",
+ "key": "1227687424156938240",
+ "value": {
+  "rev": "1-a64a32751918c870221cd153f4bf3115"
+ },
+ "doc": {
+  "_id": "1227687424156938240",
+  "_rev": "1-a64a32751918c870221cd153f4bf3115",
+  "created_at": "Wed Feb 12 20:14:25 +0000 2020",
+  "id": 1227687424156938200,
+  "id_str": "1227687424156938240",
+  "text": "RT @infobae: Tras su retiro, Iker Casillas planea ser presidente del fútbol español https://t.co/UWiGFEKECc",
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 900361567,
+   "id_str": "900361567",
+   "name": "Reflexiones Informacion Social -",
+   "screen_name": "progreflexiones",
+   "location": null,
+   "url": null,
+   "description": "seguinos en you tube",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 14,
+   "friends_count": 59,
+   "listed_count": 0,
+   "favourites_count": 44,
+   "statuses_count": 290,
+   "created_at": "Tue Oct 23 18:27:08 +0000 2012",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "C0DEED",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1154051017740378112/WiWaUaLk_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154051017740378112/WiWaUaLk_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/900361567/1563982180",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 20:02:51 +0000 2020",
+   "id": 1227684509958713300,
+   "id_str": "1227684509958713344",
+   "text": "Tras su retiro, Iker Casillas planea ser presidente del fútbol español https://t.co/UWiGFEKECc",
+   "source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 69416519,
+    "id_str": "69416519",
+    "name": "infobae",
+    "screen_name": "infobae",
+    "location": null,
+    "url": "http://infobae.com",
+    "description": "Hacemos periodismo, lo hacemos con pasión. @infobaeamerica 🌎 @infobaedeportes ⚽ @teleshowcom 🎥 @infobaeeconomia 🏦 @infobaetrends 📸 @infobaemexico 🇲🇽",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 2667077,
+    "friends_count": 12933,
+    "listed_count": 8899,
+    "favourites_count": 919,
+    "statuses_count": 590246,
+    "created_at": "Thu Aug 27 21:57:01 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "F28209",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1144805808963805184/eIA3EGA__normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144805808963805184/eIA3EGA__normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/69416519/1571754344",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 0,
+   "reply_count": 0,
+   "retweet_count": 2,
+   "favorite_count": 5,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/UWiGFEKECc",
+      "expanded_url": "https://ibae.am/2SmoXYN",
+      "display_url": "ibae.am/2SmoXYN",
+      "indices": [
+       71,
+       94
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [
+    {
+     "url": "https://t.co/UWiGFEKECc",
+     "expanded_url": "https://ibae.am/2SmoXYN",
+     "display_url": "ibae.am/2SmoXYN",
+     "indices": [
+      84,
+      107
+     ]
+    }
+   ],
+   "user_mentions": [
+    {
+     "screen_name": "infobae",
+     "name": "infobae",
+     "id": 69416519,
+     "id_str": "69416519",
+     "indices": [
+      3,
+      11
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538465905"
+ }
+}
+id"1227687424664494082"
+{
+ "id": "1227687424664494082",
+ "key": "1227687424664494082",
+ "value": {
+  "rev": "1-5ab0aa9133a3a69fb8790fa354ce54dc"
+ },
+ "doc": {
+  "_id": "1227687424664494082",
+  "_rev": "1-5ab0aa9133a3a69fb8790fa354ce54dc",
+  "created_at": "Wed Feb 12 20:14:26 +0000 2020",
+  "id": 1227687424664494000,
+  "id_str": "1227687424664494082",
+  "text": "-\"Necesitamos: Camarera, recepcionista, administrativa, secretaria, limpiadora, diseñadora gráfica, redactora, CM,… https://t.co/5PwNZqxAeR",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 248565470,
+   "id_str": "248565470",
+   "name": "Mister Pino🌲",
+   "screen_name": "Pinopinisimo",
+   "location": null,
+   "url": "https://www.youtube.com/channel/UCavo_E2telX43-LpQIQjODA",
+   "description": "Bojackista. Me faltan horas al día.\n\nHago cosicas en YouTube y Twitch.",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 140,
+   "friends_count": 140,
+   "listed_count": 1,
+   "favourites_count": 12504,
+   "statuses_count": 4655,
+   "created_at": "Mon Feb 07 08:11:49 +0000 2011",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "1A1B1F",
+   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+   "profile_background_tile": false,
+   "profile_link_color": "2FC2EF",
+   "profile_sidebar_border_color": "181A1E",
+   "profile_sidebar_fill_color": "252429",
+   "profile_text_color": "666666",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1210271273047273472/id1KR-NB_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210271273047273472/id1KR-NB_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/248565470/1568241170",
+   "default_profile": false,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "quoted_status_id": 1227596876326805500,
+  "quoted_status_id_str": "1227596876326805506",
+  "quoted_status": {
+   "created_at": "Wed Feb 12 14:14:37 +0000 2020",
+   "id": 1227596876326805500,
+   "id_str": "1227596876326805506",
+   "text": "Quiero que, mientras leáis el texto de la oferta, no perdáis de vista que pagan \"de 800 a 900\" euros al mes https://t.co/Ng9BZ3CyWg",
+   "display_text_range": [
+    0,
+    107
+   ],
+   "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+   "truncated": false,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 17195095,
+    "id_str": "17195095",
+    "name": "Helena [𝓡𝓪𝓽 𝓚𝓲𝓷𝓰]",
+    "screen_name": "DamagedBrainzs",
+    "location": "Hell, MI",
+    "url": "https://ko-fi.com/ghouly",
+    "description": "Ｓｈｅ＇ｓ ｂｅａｕｔｙ \nｓｈｅ＇ｓ ｇｒａｃｅ \nｓｈｅ ｗｉｌｌ ｓｔａｂ ｙｏｕ \nｉｎ ｔｈｅ ｆａｃｅ  ╫ \nAvatar: @fantasmiyo",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 5399,
+    "friends_count": 653,
+    "listed_count": 119,
+    "favourites_count": 182434,
+    "statuses_count": 319833,
+    "created_at": "Wed Nov 05 19:06:43 +0000 2008",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "848C93",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1030743807946579968/akgskN3H_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1030743807946579968/akgskN3H_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/17195095/1502186214",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "quote_count": 74,
+   "reply_count": 57,
+   "retweet_count": 303,
+   "favorite_count": 456,
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+     {
+      "id": 1227596872442880000,
+      "id_str": "1227596872442880000",
+      "indices": [
+       108,
+       131
+      ],
+      "media_url": "http://pbs.twimg.com/media/EQlM2fVWoAASpDm.png",
+      "media_url_https": "https://pbs.twimg.com/media/EQlM2fVWoAASpDm.png",
+      "url": "https://t.co/Ng9BZ3CyWg",
+      "display_url": "pic.twitter.com/Ng9BZ3CyWg",
+      "expanded_url": "https://twitter.com/DamagedBrainzs/status/1227596876326805506/photo/1",
+      "type": "photo",
+      "sizes": {
+       "large": {
+        "w": 491,
+        "h": 420,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 491,
+        "h": 420,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 491,
+        "h": 420,
+        "resize": "fit"
+       },
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       }
+      }
+     }
+    ]
+   },
+   "extended_entities": {
+    "media": [
+     {
+      "id": 1227596872442880000,
+      "id_str": "1227596872442880000",
+      "indices": [
+       108,
+       131
+      ],
+      "media_url": "http://pbs.twimg.com/media/EQlM2fVWoAASpDm.png",
+      "media_url_https": "https://pbs.twimg.com/media/EQlM2fVWoAASpDm.png",
+      "url": "https://t.co/Ng9BZ3CyWg",
+      "display_url": "pic.twitter.com/Ng9BZ3CyWg",
+      "expanded_url": "https://twitter.com/DamagedBrainzs/status/1227596876326805506/photo/1",
+      "type": "photo",
+      "sizes": {
+       "large": {
+        "w": 491,
+        "h": 420,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 491,
+        "h": 420,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 491,
+        "h": 420,
+        "resize": "fit"
+       },
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       }
+      }
+     },
+     {
+      "id": 1227596872447123500,
+      "id_str": "1227596872447123457",
+      "indices": [
+       108,
+       131
+      ],
+      "media_url": "http://pbs.twimg.com/media/EQlM2fWXYAEolit.png",
+      "media_url_https": "https://pbs.twimg.com/media/EQlM2fWXYAEolit.png",
+      "url": "https://t.co/Ng9BZ3CyWg",
+      "display_url": "pic.twitter.com/Ng9BZ3CyWg",
+      "expanded_url": "https://twitter.com/DamagedBrainzs/status/1227596876326805506/photo/1",
+      "type": "photo",
+      "sizes": {
+       "small": {
+        "w": 486,
+        "h": 227,
+        "resize": "fit"
+       },
+       "large": {
+        "w": 486,
+        "h": 227,
+        "resize": "fit"
+       },
+       "medium": {
+        "w": 486,
+        "h": 227,
+        "resize": "fit"
+       },
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       }
+      }
+     },
+     {
+      "id": 1227596872438689800,
+      "id_str": "1227596872438689793",
+      "indices": [
+       108,
+       131
+      ],
+      "media_url": "http://pbs.twimg.com/media/EQlM2fUWsAE21b0.png",
+      "media_url_https": "https://pbs.twimg.com/media/EQlM2fUWsAE21b0.png",
+      "url": "https://t.co/Ng9BZ3CyWg",
+      "display_url": "pic.twitter.com/Ng9BZ3CyWg",
+      "expanded_url": "https://twitter.com/DamagedBrainzs/status/1227596876326805506/photo/1",
+      "type": "photo",
+      "sizes": {
+       "large": {
+        "w": 462,
+        "h": 291,
+        "resize": "fit"
+       },
+       "small": {
+        "w": 462,
+        "h": 291,
+        "resize": "fit"
+       },
+       "thumb": {
+        "w": 150,
+        "h": 150,
+        "resize": "crop"
+       },
+       "medium": {
+        "w": 462,
+        "h": 291,
+        "resize": "fit"
+       }
+      }
+     }
+    ]
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "quoted_status_permalink": {
+   "url": "https://t.co/TlwggLxaAl",
+   "expanded": "https://twitter.com/DamagedBrainzs/status/1227596876326805506",
+   "display": "twitter.com/DamagedBrainzs…"
+  },
+  "is_quote_status": true,
+  "extended_tweet": {
+   "full_text": "-\"Necesitamos: Camarera, recepcionista, administrativa, secretaria, limpiadora, diseñadora gráfica, redactora, CM, organizadora de eventos y comercial.\"\n\n-\"¿Y os podéis permitir a tanta gente?\"\n\n-\"¿Qué?\"",
+   "display_text_range": [
+    0,
+    203
+   ],
+   "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+   }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [
+    {
+     "url": "https://t.co/5PwNZqxAeR",
+     "expanded_url": "https://twitter.com/i/web/status/1227687424664494082",
+     "display_url": "twitter.com/i/web/status/1…",
+     "indices": [
+      116,
+      139
+     ]
+    }
+   ],
+   "user_mentions": [],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538466026"
+ }
+}
+id"1227687426132410368"
+{
+ "id": "1227687426132410368",
+ "key": "1227687426132410368",
+ "value": {
+  "rev": "1-329cb911327d3762a4e495371700660b"
+ },
+ "doc": {
+  "_id": "1227687426132410368",
+  "_rev": "1-329cb911327d3762a4e495371700660b",
+  "created_at": "Wed Feb 12 20:14:26 +0000 2020",
+  "id": 1227687426132410400,
+  "id_str": "1227687426132410368",
+  "text": "RT @ViveSegunda: El Real Zaragoza DHJ, eliminado de la Youth League con 11 aragoneses de inicio. Un equipo en su máxima expresión. Un grupo…",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+   "id": 1226179255505170400,
+   "id_str": "1226179255505170432",
+   "name": "Jaime San Martín Goñi",
+   "screen_name": "JamesanmartinG",
+   "location": "Estella, España",
+   "url": "http://www.clubdeportivoizarra.es",
+   "description": "Osasuna y Barça. Simpatizo CVF y LUD. Jefe de prensa @CD_Izarra Corresponsal @Perform en El Sadar. 📝en Vavel y Grada 3. Colaboro en @marca Insta: jamesanmartin",
+   "translator_type": "none",
+   "protected": false,
+   "verified": false,
+   "followers_count": 287,
+   "friends_count": 1018,
+   "listed_count": 0,
+   "favourites_count": 194,
+   "statuses_count": 121,
+   "created_at": "Sat Feb 08 16:21:38 +0000 2020",
+   "utc_offset": null,
+   "time_zone": null,
+   "geo_enabled": false,
+   "lang": null,
+   "contributors_enabled": false,
+   "is_translator": false,
+   "profile_background_color": "F5F8FA",
+   "profile_background_image_url": "",
+   "profile_background_image_url_https": "",
+   "profile_background_tile": false,
+   "profile_link_color": "1DA1F2",
+   "profile_sidebar_border_color": "C0DEED",
+   "profile_sidebar_fill_color": "DDEEF6",
+   "profile_text_color": "333333",
+   "profile_use_background_image": true,
+   "profile_image_url": "http://pbs.twimg.com/profile_images/1226187973860917250/032pM0ys_normal.jpg",
+   "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226187973860917250/032pM0ys_normal.jpg",
+   "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226179255505170432/1581179326",
+   "default_profile": true,
+   "default_profile_image": false,
+   "following": null,
+   "follow_request_sent": null,
+   "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "retweeted_status": {
+   "created_at": "Wed Feb 12 19:09:52 +0000 2020",
+   "id": 1227671177218478000,
+   "id_str": "1227671177218478080",
+   "text": "El Real Zaragoza DHJ, eliminado de la Youth League con 11 aragoneses de inicio. Un equipo en su máxima expresión. U… https://t.co/ovyY2zc8hg",
+   "display_text_range": [
+    0,
+    140
+   ],
+   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+   "truncated": true,
+   "in_reply_to_status_id": null,
+   "in_reply_to_status_id_str": null,
+   "in_reply_to_user_id": null,
+   "in_reply_to_user_id_str": null,
+   "in_reply_to_screen_name": null,
+   "user": {
+    "id": 787697214755860500,
+    "id_str": "787697214755860480",
+    "name": "Vive LaLiga SmartBank",
+    "screen_name": "ViveSegunda",
+    "location": null,
+    "url": null,
+    "description": "Intento informar y opinar acerca de Segunda División con objetividad. Respeto ante todo. Proyecto de periodista deportivo. No hablo de arbitrajes.\n¡Bienvenidos!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 23874,
+    "friends_count": 249,
+    "listed_count": 163,
+    "favourites_count": 13111,
+    "statuses_count": 17716,
+    "created_at": "Sun Oct 16 16:50:25 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1104166251239223296/OrY6IcxX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1104166251239223296/OrY6IcxX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/787697214755860480/1478009359",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+   },
+   "geo": null,
+   "coordinates": null,
+   "place": null,
+   "contributors": null,
+   "is_quote_status": false,
+   "extended_tweet": {
+    "full_text": "El Real Zaragoza DHJ, eliminado de la Youth League con 11 aragoneses de inicio. Un equipo en su máxima expresión. Un grupo de talento que lleva el buen fútbol por bandera. Ganadores en la derrota. Todo apunta a que rugirán fuerte, señal de que el león volverá para quedarse. 🙌 https://t.co/S3Bnkvdhmq",
+    "display_text_range": [
+     0,
+     276
+    ],
+    "entities": {
+     "hashtags": [],
+     "urls": [],
+     "user_mentions": [],
+     "symbols": [],
+     "media": [
+      {
+       "id": 1227671167990980600,
+       "id_str": "1227671167990980608",
+       "indices": [
+        277,
+        300
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQmQbD0XYAAHXZa.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQmQbD0XYAAHXZa.jpg",
+       "url": "https://t.co/S3Bnkvdhmq",
+       "display_url": "pic.twitter.com/S3Bnkvdhmq",
+       "expanded_url": "https://twitter.com/ViveSegunda/status/1227671177218478080/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 1024,
+         "h": 683,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1024,
+         "h": 683,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 454,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    },
+    "extended_entities": {
+     "media": [
+      {
+       "id": 1227671167990980600,
+       "id_str": "1227671167990980608",
+       "indices": [
+        277,
+        300
+       ],
+       "media_url": "http://pbs.twimg.com/media/EQmQbD0XYAAHXZa.jpg",
+       "media_url_https": "https://pbs.twimg.com/media/EQmQbD0XYAAHXZa.jpg",
+       "url": "https://t.co/S3Bnkvdhmq",
+       "display_url": "pic.twitter.com/S3Bnkvdhmq",
+       "expanded_url": "https://twitter.com/ViveSegunda/status/1227671177218478080/photo/1",
+       "type": "photo",
+       "sizes": {
+        "thumb": {
+         "w": 150,
+         "h": 150,
+         "resize": "crop"
+        },
+        "large": {
+         "w": 1024,
+         "h": 683,
+         "resize": "fit"
+        },
+        "medium": {
+         "w": 1024,
+         "h": 683,
+         "resize": "fit"
+        },
+        "small": {
+         "w": 680,
+         "h": 454,
+         "resize": "fit"
+        }
+       }
+      }
+     ]
+    }
+   },
+   "quote_count": 0,
+   "reply_count": 9,
+   "retweet_count": 51,
+   "favorite_count": 213,
+   "entities": {
+    "hashtags": [],
+    "urls": [
+     {
+      "url": "https://t.co/ovyY2zc8hg",
+      "expanded_url": "https://twitter.com/i/web/status/1227671177218478080",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [
+       117,
+       140
+      ]
+     }
+    ],
+    "user_mentions": [],
+    "symbols": []
+   },
+   "favorited": false,
+   "retweeted": false,
+   "possibly_sensitive": false,
+   "filter_level": "low",
+   "lang": "es"
+  },
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+   "hashtags": [],
+   "urls": [],
+   "user_mentions": [
+    {
+     "screen_name": "ViveSegunda",
+     "name": "Vive LaLiga SmartBank",
+     "id": 787697214755860500,
+     "id_str": "787697214755860480",
+     "indices": [
+      3,
+      15
+     ]
+    }
+   ],
+   "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1581538466376"
+ }
+}
